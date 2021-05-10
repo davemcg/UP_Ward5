@@ -1,0 +1,33 @@
+---
+title: "Town Hall"
+description: |
+  Within our means
+author:
+  - name: David McGaughey
+date: 05-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - issues
+preview: townhall_report_screenshot.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Town Hall
+
+![](townhall_report_screenshot.jpg)
+
+UP's Town Hall is not in great shape. Need to get a tour from Mr. Beall to see for myself. As I understand there is no ADA accessibility, mold issues, and insufficient space for the public works employees. The lot that the building is on is challenging to work with as it is not flat and the metro system has a tunnel running underneath it. 
+
+# 2019
+
+The town council in 2019 commissioned a town hall renovation study from Arnold & Arnold. You can read it [here](https://www.upmd.org/DocumentCenter/View/1383/Final-Town-Hall-Needs-Assessment-Report). The price is ... a lot. 4.2 - 4.7 is more than our yearly budget. Now, that is *not how things are paid for* (UP would likely take out a 30 year bond), but still. That is a lot of money. My understanding is that the public works committee is essentially starting over on the project as the needs have changed with the pandemic. 
+
+# 2007
+
+John Tabori mentioned to me that in 2007 he commissioned a town hall renovation report from Ahman. From his memory he thought it would have cost about 2.4 million. Which had to be shelved as the 2008 recession disappeared all of the grant money the town was expecting. I'm currently (2021-05-10) trying to get access to this study.
+

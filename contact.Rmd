@@ -1,0 +1,14 @@
+---
+title: "Contact Info"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Your Ward 5 Council Member (Elect)
+- mcgaughey AT gmail.com
+
+- 202-210-6044
+
+- 6924 Pineway
