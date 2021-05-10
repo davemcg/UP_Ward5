@@ -1,0 +1,21 @@
+[
+  {
+    "path": "notes/2021-05-05-upmd-website-content/",
+    "title": "UP Website Content",
+    "description": "How to benefit from the UP website content",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-05",
+    "categories": [
+      "notes"
+    ],
+    "contents": "\nThe upmd.org web page is a great resource for getting a wide variety of town info. There is an extensive amount of public discourse about what the town is doing, will do, and would like to do. This happens at the town meetings.\nImportantly, the notes for the meetings are TEXT SEARCHABLE.\nThe town meetings are of two basic types: town council (1st and 3rd Mondays of each month, beginning at 7:30pm) and committees (each with their own schedule, often monthly). All of these meetings are fully open to the public and as of May 2021 are held exclusively via zoom teleconference.\nA case study\nTo give an example of how to search the town web page to find information on what the town is doing, we will search the term “storm water.”\n\n In the search box you can put in a word or phrase (“storm water”). Then click the magnifying glass (or hit “return” on the keyboard) and you will get the time sorted results, split by section (where section is the specific committee or the town council).\n We see the top three hits (by date) are in the Town Council Meeting and the Development Overview Committee. You can then download either the Agenda (what will be discussed) or the Minutes (a summary of what was discussed).\nIf we download the Mar 11, 2021 minutes we see that the “Aspen, College Park” development has a preliminary plan of subdivision that has been approved and “Nick Speech talked about the re-engineering of the project’s stormwater handling. The County will not accept a fee in-lieu for stormwater management. They have included vaults to hold stormwater under each of the 2 buildings…”\n\n\n\n",
+    "preview": "notes/2021-05-05-upmd-website-content/upmd_page.png",
+    "last_modified": "2021-05-06T10:00:50-04:00",
+    "input_file": {}
+  }
+]
