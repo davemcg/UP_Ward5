@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The purpose of this site is to disseminate relevant information about Ward 5 and UP. There are two main types of writings: "issues" and "posts." "Issues" will be a limited number of posts on more complicated subjects that will be updated over time. The idea is to get a firm factual understanding of the issue. "Posts" are "one-off" short notes on a variety of topics.
 
-Posts will be written by the Ward 5 Council Member (Elect), David McGaughey. I welcome content / suggestions from you all. 
+Posts are be written by the Ward 5 Council Member (Elect), David McGaughey. I welcome content / suggestions from you all. 
 
 ------
 
