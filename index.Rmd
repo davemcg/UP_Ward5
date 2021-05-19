@@ -8,7 +8,8 @@ listing:
     - 2021-05-10-townhall
     - 2021-05-05-storm-water-management
   notes:
-    2021-05-05-upmd-website-content
+    - 2021-05-05-upmd-website-content
+    - 2021-05-19-wheresthebridge
 ---
 
 ```{r setup, include=FALSE}

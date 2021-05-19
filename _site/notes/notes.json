@@ -1,5 +1,24 @@
 [
   {
+    "path": "notes/2021-05-19-wheresthebridge/",
+    "title": "Where's that bridge?",
+    "description": "A sad story",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-19",
+    "categories": [
+      "notes"
+    ],
+    "contents": "\nBrief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.\n\nFrom my faulty memory, around 2016 (????) it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.\nPeriodically people (like me) ask “uh, where’s the replacement bridge?”\nHere, I will explain what I understand about this annoying situation.\nThe town bought two wooden bridges. We have them on hand.\nPermitting was required at three levels (Federal, State, and County). The latter was extremely challenging (apparently the bridges were missed in the 1990s era PG County Master Plan).\nAfter huge amounts of town staff time dealing with the three layers of permitting, the town bid the bridge install out. It came out substantially higher (around $110,000) than expected. The council, twice, voted it down.\nSo the bridge replacement process is currently … in bad shape. Maybe even dead.\nPart of the reason that the install was so expensive was the extensive amount of work required to not cause sediment and erosion issues in the stream bed.\nWith all we have learned, we may have to restart the entire process (including the part where we buy some bridges). A longer / larger bridge may cost more, but could save money on the install cost.\n\n\n\n",
+    "preview": "notes/2021-05-19-wheresthebridge/google_maps_wells.png",
+    "last_modified": "2021-05-19T18:30:55-04:00",
+    "input_file": {}
+  },
+  {
     "path": "notes/2021-05-05-upmd-website-content/",
     "title": "UP Website Content",
     "description": "How to benefit from the UP website content",
