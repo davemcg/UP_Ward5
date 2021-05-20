@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Brief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.
 
-![](google_maps_wells.png)
+![](google_maps_wells.png){width=75%}
 
 From my faulty memory, around 2016 (????) it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.
 

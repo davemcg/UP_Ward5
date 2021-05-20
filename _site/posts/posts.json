@@ -1,0 +1,78 @@
+[
+  {
+    "path": "notes/2021-05-19-wheresthebridge/",
+    "title": "Where's that bridge?",
+    "description": "A sad story",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-19",
+    "categories": [
+      "notes"
+    ],
+    "contents": "\nBrief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.\n\nFrom my faulty memory, around 2016 (????) it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.\nPeriodically people (like me) ask “uh, where’s the replacement bridge?”\nHere, I will explain what I understand about this annoying situation.\nThe town bought two wooden bridges. We have them on hand.\nPermitting was required at three levels (Federal, State, and County). The latter was extremely challenging (apparently the bridges were missed in the 1990s era PG County Master Plan).\nAfter huge amounts of town staff time dealing with the three layers of permitting, the town bid the bridge install out. It came out substantially higher (around $110,000) than expected. The council, twice, voted it down.\nSo the bridge replacement process is currently … in bad shape. Maybe even dead.\nPart of the reason that the install was so expensive was the extensive amount of work required to not cause sediment and erosion issues in the stream bed.\nWith all we have learned, we may have to restart the entire process (including the part where we buy some bridges). A longer / larger bridge may cost more, but could save money on the install cost.\n\n\n\n",
+    "preview": "notes/2021-05-19-wheresthebridge/google_maps_wells.png",
+    "last_modified": "2021-05-19T21:56:45-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "issues/2021-05-10-townhall/",
+    "title": "Town Hall",
+    "description": "Within our means",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-10",
+    "categories": [
+      "issues"
+    ],
+    "contents": "\nTown Hall\n\nUP’s Town Hall is not in great shape. Need to get a tour from Mr. Beall to see for myself. As I understand there is no ADA accessibility, mold issues, and insufficient space for the public works employees. The lot that the building is on is challenging to work with as it is not flat and the metro system has a tunnel running underneath it.\n2019\nThe town council in 2019 commissioned a town hall renovation study from Arnold & Arnold. You can read it here. The price is … a lot. 4.2 - 4.7 is more than our yearly budget. Now, that is not how things are paid for (UP would likely take out a 30 year bond), but still. That is a lot of money. My understanding is that the public works committee is essentially starting over on the project as the needs have changed with the pandemic.\n2009\nJohn Tabori mentioned to me that in 2009 he commissioned a town hall renovation report from Ahman. From his memory he thought it would have cost about 2.4 million. Which had to be shelved as the 2008 recession disappeared all of the grant money the town was expecting. I’m currently (2021-05-10) trying to get access to this study.\n… later that day …\nAndrea found the reports. Here and here are the two PDFs she tracked down.\nDramatically oversimplifying the two (2009 and 2019) studies, I would say that the scope increased from 2009 to 2019. The 2009 plan essentially leaves the original building layout the same (but presumably fixed it up?), builds a small “transition” section whose purpose is to 1. hold an elevator to reach the second floor of the original Town Hall and 2. connect to the new building. The new building is a one story structure that holds a 1. large meeting room, 2. two offices, and 3. a kitchen.\nThe 2019 plan involves two new buildings. Obviously costs from 2009 won’t match 2019, but the extra building (and increased footprint) very roughly increases the building cost by one million and the property grading work by another million. Hence 2009 is approximately $2.3 and 2019 is approximately $4.5 million.\n2019 Concept 1, Option A\n\n2009\n\n\n(There’s no equivalent to the image above in the 2019 study)\n\n\n\n",
+    "preview": "issues/2021-05-10-townhall/townhall_report_screenshot.jpg",
+    "last_modified": "2021-05-10T16:19:16-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "issues/2021-05-05-storm-water-management/",
+    "title": "Storm Water Management",
+    "description": "A running topic",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-05",
+    "categories": [
+      "issues"
+    ],
+    "contents": "\nWard 5 Flooding “Hot Spots”\nWard 5 floods periodically. Not in the “traditional” sense, but because occasionally it rains so hard that the storm drain system cannot keep up. The problem spot is roughly between Pineway (at Clagett-Pineway) through the empty lot near 6924 Pineway, where it heads towards Guilford Run\nFloodfactor.com\n\nPerspective\nWhile this nice map shows us where the issues are in Ward 5, the surrounding region has FAR WORSE problems (e.g. Riverdale Park below Whole Foods and lower/east Calvert Hills)\n\nUP Role - April 2021\nFrom a conversation with Len Carey in April 2021, I learned that UP had recently discovered that some of the storm water piping was substandard and not under the control of WSSC. Should the town be able to upgrade the piping, then responsibility of the storm drains can be transferred (town wide?) to WSSC. See the image below for the approximate location of the substandard piping. The storm drain here (Pineway at Clagett-Pineway) regularly drains very slowly under heavy rains. I would imagine that fixing the pipe here would fix this issue.\n\nDownstream\nFrom my own experience, under VERY (as in 2+ inches/hour) heavy rain events, Guilford Run can get backed up and the storm drains stop taking in water (or perhaps even go backwards….). This is likely because the pipe underneath Baltimore isn’t large enough. For the Ward 5 storm flooding issues to be aleviated, this also would need to be addressed (I assume with a Guilford Run holding tank and/or better flow underneath Route 1).\n2021 05 Update\nThanks for Carter for pointing this document / plan out. There has been a great deal of planning to deal with Guilford Run -> Calvert Hills already. With a fair amount of money spent, according to this document. However, the bulk of the project remains to be done.\n\nI’m not certain at what level (College Park / PG County / Higher?) this is being run at. I also need to figure out what the current status of the project is. Should “they” move this more to completion, it would benefit the Pineway/Ward 5 stretch.\n\n\n\n",
+    "preview": "issues/2021-05-05-storm-water-management/flood_factor_pineway_annotated.png",
+    "last_modified": "2021-05-10T09:53:17-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "notes/2021-05-05-upmd-website-content/",
+    "title": "UP Website Content",
+    "description": "How to benefit from the UP website content",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-05",
+    "categories": [
+      "notes"
+    ],
+    "contents": "\nThe upmd.org web page is a great resource for getting a wide variety of town info. There is an extensive amount of public discourse about what the town is doing, will do, and would like to do. This happens at the town meetings.\nImportantly, the notes for the meetings are TEXT SEARCHABLE.\nThe town meetings are of two basic types: town council (1st and 3rd Mondays of each month, beginning at 7:30pm) and committees (each with their own schedule, often monthly). All of these meetings are fully open to the public and as of May 2021 are held exclusively via zoom teleconference.\nA case study\nTo give an example of how to search the town web page to find information on what the town is doing, we will search the term “storm water.”\n\n In the search box you can put in a word or phrase (“storm water”). Then click the magnifying glass (or hit “return” on the keyboard) and you will get the time sorted results, split by section (where section is the specific committee or the town council).\n We see the top three hits (by date) are in the Town Council Meeting and the Development Overview Committee. You can then download either the Agenda (what will be discussed) or the Minutes (a summary of what was discussed).\nIf we download the Mar 11, 2021 minutes we see that the “Aspen, College Park” development has a preliminary plan of subdivision that has been approved and “Nick Speech talked about the re-engineering of the project’s stormwater handling. The County will not accept a fee in-lieu for stormwater management. They have included vaults to hold stormwater under each of the 2 buildings…”\n\n\n\n",
+    "preview": "notes/2021-05-05-upmd-website-content/upmd_page.png",
+    "last_modified": "2021-05-06T10:00:50-04:00",
+    "input_file": {}
+  }
+]
