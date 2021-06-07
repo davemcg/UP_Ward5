@@ -1,5 +1,24 @@
 [
   {
+    "path": "notes/2021-05-20-signingup/",
+    "title": "Hot off the press",
+    "description": "Or how to influence the process",
+    "author": [
+      {
+        "name": "David McGaughey",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-07",
+    "categories": [
+      "notes"
+    ],
+    "contents": "\nOur Town Clerk is Andrea. She told me she was hoping more town residents would sign up on the web page to get updates. I think she is right. Why should you? After all, the town writes and prints a newsletter that comes to your mailbox!\nWell - one important reason: time. The newsletter comes out once a month. Minutes of the town meetings that go into the newsletter have to be approved by the council. Then meet the printing cutoff. So essentially you are reading minutes (“what happened in the room”) that are 4-8 weeks old.\nIf you want to get council matter updates MUCH faster you can go here: https://www.upmd.org/list.aspx\nI suggest you sign up for the “Mayor’s Email List” as Mayor Carey generally sends out a Friday-before-the-Monday-Council-Meeting message that briefly covers what will be discussed at the upcoming meeting. There is always a public comment period near the start of the meeting (7:30 pm) to allow residents to have up to 3 minutes to give their opinion.\n\nIf you have more specific interests (for example “trees”) - you can sign up for Agenda updates for a specific committee like the “Trees, Parks, & Environment Committee”.\n If you want to influence legislation the best time to do it is at the Committee level. By the time a piece of legislation has made its way to the full Town Council the specific committee generally believes it is ready to be approved (otherwise why bother bringing it out?). So thus raising issues before it gets to the full Town Council will be more effective.\nRemember, all council meetings (either Committee or Council) are open to the public. You do not need to ask permission to show up. Depending on the specific Committee you can either take part in the full discussion or will be limited to speaking in the “public comment” portion of the meeting.\n\n\n\n",
+    "preview": "notes/2021-05-20-signingup/mayor_list.png",
+    "last_modified": "2021-06-07T17:50:11-04:00",
+    "input_file": {}
+  },
+  {
     "path": "notes/2021-05-19-wheresthebridge/",
     "title": "Where's that bridge?",
     "description": "A sad story",
@@ -13,9 +32,9 @@
     "categories": [
       "notes"
     ],
-    "contents": "\nBrief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.\n\nFrom my faulty memory, around 2016 (????) it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.\nPeriodically people (like me) ask “uh, where’s the replacement bridge?”\nHere, I will explain what I understand about this annoying situation.\nThe town bought two wooden bridges. We have them on hand.\nPermitting was required at three levels (Federal, State, and County). The latter was extremely challenging (apparently the bridges were missed in the 1990s era PG County Master Plan).\nAfter huge amounts of town staff time dealing with the three layers of permitting, the town bid the bridge install out. It came out substantially higher (around $110,000) than expected. The council, twice, voted it down.\nSo the bridge replacement process is currently … in bad shape. Maybe even dead.\nPart of the reason that the install was so expensive was the extensive amount of work required to not cause sediment and erosion issues in the stream bed.\nWith all we have learned, we may have to restart the entire process (including the part where we buy some bridges). A longer / larger bridge may cost more, but could save money on the install cost.\n\n\n\n",
+    "contents": "\n2021-06-07\nHad a brief discussion with Mickey Beall (UP public works director).\nHere are my notes from our chat:\nThere is a new idea how to save money on the install (essentially drill a support instead of pouring a large foundation). But this would maybe save approximately $10,000 of the appoximately $100,000 install cost that we were last quoted. We also would have to restart the permitting process. It wouldn’t be as onerous this time. But still would take more time.\nAny new bridge has to be ADA compliant - so we can’t toss a narrow anything down.\nWe also can’t toss a bridge down like they do in the College Park metal dry ditch pedestrian bridges. Those would lift up and float away if it flooded. Which we know if a fairly likely scenario on Wells. Plus a stream with running water is a substantially more challenging environment for a bridge.\nLonger bridge won’t solve the problem either. The bridge would cost more and the installation cost would not change dramatically.\nBottom line: Mickey has spent 4+ years working on this and believes he has exhausted all angles. The cost is the cost. Essentially the council needs to decide: are these bridge(s) worth 100k each? Do we, as a town, find that a prudent use of our money? Is this something we value? Let me know what you think.\nOriginal post\nBrief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.\n\nFrom my faulty memory, around 2016 it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.\nPeriodically people (like me) ask “uh, where’s the replacement bridge?”\nHere, I will explain what I understand about this annoying situation.\nThe town bought two wooden bridges. We have them on hand.\nPermitting was required at three levels (Federal, State, and County). The latter was extremely challenging (apparently the bridges were missed in the 1990s era PG County Master Plan).\nAfter huge amounts of town staff time dealing with the three layers of permitting, the town bid the bridge install out. It came out substantially higher (around $110,000) than expected. The council, twice, voted it down.\nSo the bridge replacement process is currently … in bad shape. Maybe even dead.\nPart of the reason that the install was so expensive was the extensive amount of work required to not cause sediment and erosion issues in the stream bed.\nWith all we have learned, we may have to restart the entire process (including the part where we buy some bridges). A longer / larger bridge may cost more, but could save money on the install cost.\n\n\n\n",
     "preview": "notes/2021-05-19-wheresthebridge/google_maps_wells.png",
-    "last_modified": "2021-05-19T21:56:45-04:00",
+    "last_modified": "2021-06-07T16:36:10-04:00",
     "input_file": {}
   },
   {

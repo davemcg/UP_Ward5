@@ -18,11 +18,26 @@ preview: google_maps_wells.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# 2021-06-07
+
+Had a brief discussion with [Mickey Beall](https://www.upmd.org/directory.aspx?EID=18) (UP public works director). 
+
+Here are my notes from our chat:
+
+1. There is a new idea how to save money on the install (essentially drill a support instead of pouring a large foundation). **But** this would **maybe** save approximately $10,000 of the appoximately $100,000 install cost that we were last quoted. We also would have to restart the permitting process. It wouldn't be as onerous this time. But still would take more time. 
+2. Any new bridge has to be ADA compliant - so we can't toss a narrow anything down.
+3. We also can't toss a bridge down like they do in the College Park metal dry ditch pedestrian bridges. Those would lift up and float away if it flooded. Which we *know* if a fairly likely scenario on Wells. Plus a stream with running water is a substantially more challenging environment for a bridge.
+4. Longer bridge won't solve the problem either. The bridge would cost more and the installation cost would not change dramatically. 
+
+Bottom line: Mickey has spent 4+ years working on this and believes he has exhausted all angles. The cost is the cost. Essentially the council needs to decide: are these bridge(s) *worth* 100k each? Do we, as a town, find that a prudent use of our money? Is this something we value? Let me know what you think. 
+
+# Original post
+
 Brief stub to explain the current state of the Van Buren / Wells Parkway Pedestrian Bridge. Which Google Maps thinks is doing just fine.
 
 ![](google_maps_wells.png){width=75%}
 
-From my faulty memory, around 2016 (????) it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.
+From my faulty memory, around 2016 it was pointed out that this bridge was in bad shape. This was confirmed by engineers. In fact, it was in such bad shape there was concern it could collapse. Thus, it was removed.
 
 Periodically people (like me) ask "uh, where's the replacement bridge?" 
 
