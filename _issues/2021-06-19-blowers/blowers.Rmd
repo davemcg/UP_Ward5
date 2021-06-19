@@ -6,6 +6,8 @@ author:
   - name: David McGaughey
     url: {}
 date: 06-19-2021
+categories:
+  - issues
 output:
   distill::distill_article:
     self_contained: false
