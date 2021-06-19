@@ -1,0 +1,67 @@
+---
+title: "Western Gateway"
+description: |
+  Goodbye Trees
+author:
+  - name: David McGaughey
+    url: {}
+date: 06-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+preview: three_proposal_maps.png
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Site info: 
+
+https://arsp.konveio.com/presentation-virtual-community-scenario-planning-workshop-meeting-june-3-2021
+
+Scale: 
+
+  - 2600 units
+  - 19,000 sq ft retail (the median grocery store is 40,000 *alone*)
+  - 25,000 sq ft office 
+
+Goals:
+
+1. "Maximize preservation of existing trees"
+2. "Encourage on-site/shared stormwater management systems."
+3. "Create new passive/active open spaces, including a Neighborhood Amenity Square at the station"
+4. "Concentrate tallest buildings along Campus Drive/Mowatt Lane" (away from UP/CHE)
+5. "Expand bicycle/pedestrian/stormwater management/street trees along new & existing streets"
+6. "Recommend expansion of buffers from existing houses" 
+7. "Reduce required and recommended parking to encourage walking/biking/transit use"
+8. "Implement a phasing plan: core to edges"
+9. "Understand Graduate Hills and St. Marks Church may not redevelop for 20+ years."
+
+![](new_roads.png)
+
+![](three_proposal_maps.png)
+
+![](3_housing_types.png)
+
+# Good news
+
+1. They will retain the trees around the stream in all plans
+2. They, generally, propose townhouses (that are "stepped in" - one story on the CHE side) that abut CHE
+3. The goals are laudable ("Maximize preservation of existing trees", "on site stormwater", "expand bicycle/pedestrian")
+
+# Bad news
+
+1. No discussion of stormwater management
+2. No details on the tree preservation in the "passive parks." Are they pruning trees? Will they cut some down? Will it literally be left alone? 
+3. No details on what the pedestrian / biking links will be. It's a goal....but no information. 
+4. Little retail means you have to involve a car to get groceries
+5. No intersection improvements at University / 193 / Adelphi. It's already a nightmare and now a light rail and 4000 people are going to be added. I don't know what the solution is, but *do nothing* doesn't seem like a good idea.
+6. Schools were not mentioned....presuambly *some* familes will be moving here? 
+7. No "active" recreation space (tennis courts, etc.)
+
+# Town response
+Ward 6 CM Martha Wells drafted a response that Mayor Carey sent to the Maryland-National Capital Park and Planning Commission. I have a copy of it, but have not seen the "formal" one posted on the [UPMD.org](upmd.org) page yet.
+
+
