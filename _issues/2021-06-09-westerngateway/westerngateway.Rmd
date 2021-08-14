@@ -19,6 +19,19 @@ preview: three_proposal_maps.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# August 2021 Update
+
+More links:
+[UMD](https://adminvp.umd.edu/current-projects/western-gateway)
+[Gilbane (Developer)](https://www.gilbaneco.com/development/projects/western-gateway/)
+[Diamondback](https://dbknews.com/2021/06/17/guilford-woods-umd-college-park-affordable-housing-environment/)
+[Maryland Matters (1/2)](https://www.marylandmatters.org/2021/04/27/one-small-patch-of-woods-near-the-university-of-maryland-sparks-an-epic-fight/)
+[Maryland Matters (2/2)](https://www.marylandmatters.org/2021/04/28/wooded-parcel-near-umd-inspires-a-wish-list-that-cant-be-fulfilled/)
+[Save Guilford Woods](https://saveguilfordwoods.wordpress.com)
+
+
+# UP 
+
 Site info: 
 
 https://arsp.konveio.com/presentation-virtual-community-scenario-planning-workshop-meeting-june-3-2021
@@ -60,7 +73,7 @@ Goals:
 3. No details on what the pedestrian / biking links will be. It's a goal....but no information. 
 4. Little retail means you have to involve a car to get groceries
 5. No intersection improvements at University / 193 / Adelphi. It's already a nightmare and now a light rail and 4000 people are going to be added. I don't know what the solution is, but *do nothing* doesn't seem like a good idea.
-6. Schools were not mentioned....presuambly *some* familes will be moving here? 
+6. Schools were not mentioned....presumably *some* familes will be moving here? 
 7. No "active" recreation space (tennis courts, etc.)
 
 # Town response
