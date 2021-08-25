@@ -19,7 +19,9 @@ preview: three_proposal_maps.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# August 2021 Update
+# August 2021 Update 
+
+Adding some relevant links. The next UP Developmental Overview Committee should be discussing this matter in more detail to formulate the town's response. 
 
 More links:
 [UMD](https://adminvp.umd.edu/current-projects/western-gateway)
@@ -28,7 +30,6 @@ More links:
 [Maryland Matters (1/2)](https://www.marylandmatters.org/2021/04/27/one-small-patch-of-woods-near-the-university-of-maryland-sparks-an-epic-fight/)
 [Maryland Matters (2/2)](https://www.marylandmatters.org/2021/04/28/wooded-parcel-near-umd-inspires-a-wish-list-that-cant-be-fulfilled/)
 [Save Guilford Woods](https://saveguilfordwoods.wordpress.com)
-
 
 # UP 
 
