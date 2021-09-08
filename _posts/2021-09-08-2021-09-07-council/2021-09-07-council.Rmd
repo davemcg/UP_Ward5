@@ -1,0 +1,52 @@
+---
+title: "Town Council 2021-09-07 "
+description: |
+  Back again
+author:
+  - name: David McGaughey
+    url: {}
+date: 09-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# August Recap
+
+I missed the *one* council meeting in August (hence no note), as my family was were on vacation.
+
+Skimming the notes I see the council asked the DOC (Development) to formally discuss the [Western Gateway](../2021-06-09-westerngateway/westerngateway.html) project. I updated the post to include some new links about the project.
+
+The DOC, this [THURSDAY](https://www.upmd.org/AgendaCenter/ViewFile/Agenda/_09092021-594), will discuss the Western Gateway project. While I am on not this committee, I plan on attending. 
+
+The [garage purchase](https://davemcg.com/ward5/notes/2021-08-24-our-garage/) was authorized. 
+
+Mickey Beall (Public Works Director) announced that prior to the town trimming / removing trees they would be distributing flyers to nearby homes. This is to allow homeowners to respond should there be confusion over the status of a tree (health and who is responsible for it). 
+
+# OK, now onto the September 7th 2021 Meeting
+
+## Leaf blower ordinance
+We all moved implementation date to Janurary 1st, 2021 (this language was approved). The ordinance *was not* voted on, but rather delayed to the first meeting in October. This is to allow time for a new, related, ordinance to give $100 (per hoursehold) rebates for replacing gas powered lawn equipment with electric equivalents. The funds for this would not come from the town budget, but rather the American Rescue Plan funds. From conversations with the other council members, it seems pretty consistent that everyone is getting about 50/50 yea/nay comments. So, no matter the outcome, people will be angry. I plan on voting for the ordinance as I feel the externalities (noise / pollution) are being unfairly shouldered by everyone in town. But the Mayor, while supportive of the sentiment to ban the gas blowers, leans against a straight ban. We will have to see what comes out in the end. 
+
+## UPES Pavilion Damaged
+I noticed that one of the vertical supports in the UPES Pavilion was 90+ % rusted out. The mayor let me know that Mickey had noticed this months ago and had informed UPES, but it still had not been fixed. In the town council meeting the Mayor informed us that our school board representative (Pamela Boozer-Strother) was looped in to help push PGCPS to fix the pavilion. The COO of PGCPS agreed to send (another) crew to see what repairs could be done. All parties (UP, UPES, Pamela) wish to repair, not remove, the pavilion.
+
+## Town Charter Refresh
+The town charter is being updated by the town clerk and attorney. Largely the changes are to remove and update outdated language. One notable potential change relates to permitting - right now the town charges $10 for a town (contracted) engineer to review storm water / drainage related issues with new builds. Apparently this is costing the town (e.g. all of us) about \$400-\$500 each time - the council was surprised and the sentiment seemed to be that the home owner should be paying for most, if not all, the cost. 
+
+## Trees
+Trees. Chris Aubry reported on the tree committees work. 30+ trees were planted using the town's funds to defray the cost. Chris would like the town to buy LIDAR data to quantify the town's tree cover. Unclear on what the cost would be. Council and Mayor were supportive, assuming the cost was reasonable. 
+
+## Town Administrator
+This got surprisingly testy for a few minutes as the Council blocked the Mayor's request to amend the TA contract. This was largely due to a misunderstanding. We were sent a brief packet on the the contract and it appeared that we were approving new benefits, like $1000/month allocations for travel-to-UP expenses. Apparently this is *already* in the TA's contract (which was approved by the council **before** I got there) and the only change we were asked to approve was to give time off for hours worked (apparently there was no language at all on this matter) to match the town's handbook for employees. Once this was made clear, this was approved 7-0. Reading between the lines I'd say there is a trust mis-match between the Mayor and the Council on the TA right now. 
+
+
+
+
+
+
