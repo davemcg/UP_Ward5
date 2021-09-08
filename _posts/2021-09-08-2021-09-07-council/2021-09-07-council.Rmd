@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # August Recap
 
-I missed the *one* council meeting in August (hence no note), as my family was were on vacation.
+I missed the *one* council meeting in August (hence no note), as my family was on vacation.
 
 Skimming the notes I see the council asked the DOC (Development) to formally discuss the [Western Gateway](../2021-06-09-westerngateway/westerngateway.html) project. I updated the post to include some new links about the project.
 
