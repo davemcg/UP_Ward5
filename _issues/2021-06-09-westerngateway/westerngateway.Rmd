@@ -19,6 +19,17 @@ preview: three_proposal_maps.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# September 2021 Update
+
+## Useful maps (from CM Wells)
+The crucial point **is that Gilbane already owns the land where the townhouses would go.** The land that UMD would be selling is substantial, but a fairly large part of it would not be considered buildable because of the stream. I think Gilbane could go "whatever jerks" and give up on the UMD selling part and just build some townhouses. 
+
+
+
+
+I would like to make clear **I do not know or can make an educated guess on what the town lawyer Suellen will suggest we are allowed to say.** 
+
+
 # August 2021 Update 
 
 Adding some relevant links. The next UP Developmental Overview Committee should be discussing this matter in more detail to formulate the town's response. 
