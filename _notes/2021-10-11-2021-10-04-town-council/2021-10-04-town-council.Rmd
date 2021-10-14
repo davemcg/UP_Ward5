@@ -1,0 +1,81 @@
+---
+title: "Town Council 2021-10-04"
+description: |
+  Pro Tempore
+author:
+  - name: David McGaughey
+    url: {}
+date: 10-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# 2021-10-04 Council Meeting
+
+Mayor Len Carey wasn't present for this meeting (excused), so council member Joel Biermann was the "Mayor Pro Tempore."
+
+# Pamela Boozer-Strother
+Our area's PTA board member briefly talked about the school issues:
+
+1. Commends UP parents for helping improve COVID safety practices at UPES
+2. School year going fairly well so far. Limited number of kids in virtual.
+3. Little COVID spread in PG school system
+4. Very short of bus drivers (started 100 short, now 200 short!!!)
+5. Hoping for a July 2023 finish for Hyattsville Middle re-construction
+6. PTA concerned about external module / trailers at UPES - trying to improve the appearance
+7. Boundary initiative - will begin 2023/2024 school year
+
+# Meadow Work
+
+On October 16, from 10-12, there will be volunteer work to feed and re-weed the UP town meadow
+
+# Take Backs
+
+I believe these run from 10am - 4pm.
+
+- 10/23 paint/electronic recycling, paper shredding (UPES) 
+- 10/23 drug take-back (town hall)
+
+# American Rescue Plan
+
+At the October 18th Town Council meeting, Town Administrator David Deutsch will present early plans on spending the ~2.1 million dollars UP has and will receive from the federal government.
+
+# Leaf Blower Ban
+
+The council passed (7-0) the leaf blower ban, with one new amendment. Briefly, as of **January 1st, 2024** gas powered leaf blowers cannot be operated in University Park. The companion amendment adds a carrot to the ban (which is the stick). The town will reimburse up to $100 (per household) for an electric-powered yard tool for a three year time period. This program will go in effect in June (?). Details have yet to be worked out for what the fine will be for violoations of the new ordinance. 
+
+# 2021-10-13 Public Safety Meeting - UP Police Chief Baker in attendance
+
+Speed cameras.
+
+1901 citations written (1656 September alone) so far.
+
+284 paid.
+
+Majority are 12-15 mph over the limit. 
+
+As of 11/1 the council will be asked to amend the town ordinances to allow for 24 hour operation of the speed cameras (only allowed on state roads, so just East-West Highway and Baltimore).
+
+Chief Baker spoke the to Riverdale Park Police Chief about their 20mph residential speed limit. Introduced last year or so. Their chief seems to think it is helpful. Didn't use a traffic study to justify - had on hand some speed sign and collision data. Essentially their council wanted it. Chief Baker pointed out UP has very few collisions and he is unsure whether a 20mph would have a measureable effect in UP. 
+
+### "Smart" Cameras
+
+Chief Baker was interested in a 7 "smart" camera system. Mounted on utility poles. Unobtrusive. Would run at night. Would help the overnight officer automatically identify and alert potential issues.  Costs around $60,000. No monthly fees. Chief Baker pointed out that surrounding towns were either running or considering running these systems - in the context of pointing out that thieves are very astute and gravitate to the "easier" areas to "work" in.
+
+### Halloween
+
+Yes, it is happening. October 31. Police will work 5pm - 10pm. The police are aware that out-of-UP people are driving in ... and are staying in their car following their kids. The police will encourage everyone to walk for Halloween. 
+
+### Signage
+
+Chief would like to add some "no parking, no stopping, no loitering" style signs in some areas as he has had some interactions with out-of-UP people who are ... just hanging out in their idling cars. 
+
+### Next (public safety committee) meeting
+
+Will discuss traffic calming measure to consider. Send your input.

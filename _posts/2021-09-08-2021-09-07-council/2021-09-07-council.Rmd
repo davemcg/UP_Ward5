@@ -1,5 +1,5 @@
 ---
-title: "Town Council 2021-09-07 "
+title: "Town Council 2021-09-07"
 description: |
   Back again
 author:
