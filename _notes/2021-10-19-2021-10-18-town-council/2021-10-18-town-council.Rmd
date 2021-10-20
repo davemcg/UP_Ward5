@@ -1,0 +1,68 @@
+---
+title: "Town Council 2021-10-18"
+description: |
+  ARPA, but not that ARPA
+author:
+  - name: David McGaughey
+    url: {}
+date: 10-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The Advanced Research Projects Agency, or ARPA, supported the development of the ARPANET, the first packet switching network in the US. The precursor to the internet. 
+
+So everytime we discuss the ARPA, my ears perk up. Except that this is the [American Rescue Plan Act](https://www.congress.gov/bill/117th-congress/house-bill/1319/text) . Which is also important. But in a very different way. 
+
+Anyways, this meeting had one of the first overarching discussions about apportioning the ~2.3 million the town will receive from ARPA over the next two years.
+
+# Wells Run
+CM Martha Wells had noticed that Wells Run had gotten murky. CM Wells and the Mayor, after much leg-work, got the developers of some upstream work at Adelphi / Belcrest to fix their silt fence and lay sod / mesh to help control runoff.
+
+# ARPA proposals (just proposals!)
+  - Climate Change and Resilience
+    - 50% ?
+    - “We have a growing list of potential locations, including recent discussions relating to certain alleys in Town. We will retain an engineer to develop specific details for the various projects…..developing plug-in capability as the Town fleet and equipment migrate(sp?) to an electric future.”
+  - Non-profit support
+    - 10% ?
+    - “In 2020 Council allocated \$25,000 of the Town’s \$171,000 CARES Act money to support area food banks…Council could direct a 10% allocation of ARPA for non-profit support. This approximate \$250,000 would be a great boost for programs serving people with ongoing needs in the region”
+  - Increase pay for town employees
+    - “An allocation of approximately \$200,000 would cover a \$2.50 per hour temporary increase in pay for two years for our front- line employees, including public works and police (twenty employees maximum). A \$104,000 annual cost per year would provide a $5,200 increase per year for eligible employees. This allocation addresses the ongoing need to remain competitive in police salaries, and it also fulfills the ARPA mandate to include workers who represent lower wage categories within the Town organization. With Council’s concurrence this program could begin with the first payroll in January, 2022.”
+
+“The recommendations above account for approximately \$1,750,000 of the Town’s ARPA allocation. This total still yields a balance of \$450,000 for future allocation.”
+
+If you have suggestions - then now is the time to bother me. Very roughly, the money can *only* be spent on climate resilience, broadband, and COVID-related stuff.
+
+# (Re)districting
+In ugly politics news, the PG County Council [passed a surprise redistricting plan](https://www.marylandmatters.org/2021/10/18/critics-denounce-redistricting-changes-in-pr-georges-as-outrageous-appalling/) that dramatically altered our area. College Park would be tossed into District 1 (with Laurel?!). Among other bits of local areas getting flung about.  The four against (including our local council members) were horrified that a dramatic alteration of our political map would happen with literally zero notice or public input. In what-must-be-a-total-coincidence this redistricting would disrupt several in-progress campaigns and help certain council members. 
+
+While there may (????) be valid reasons for re-configuring the map, the county council has not deemed us worthy of those reasons. 
+
+The council authorized the Mayor to send a letter voicing our disapproval to the county leadership. 
+
+Unfortunately the letter had little effect as just tonight (10/19) the [council again forwarded the map, with few changes](https://www.marylandmatters.org/2021/10/19/even-with-tweaks-proposed-prince-georges-council-map-sparks-gerrymandering-allegations/).
+
+# Guilford Woods
+The DOC disapproves of the proposed land transfer from UMD to Gilbance. Council asked that the Mayor and CM Wells follow up with Senator Pinsky about how to most effectively communicate our message, as the transfer takes place at the state level. This is not something the town is familiar with. 
+
+# Parking Sticker
+UPMD.org page has now a link to request a "UP" parking sticker for you car. Not required, but the police like them as it helps them quickly see who is a resident. 
+
+- [Parking Permit & UP Sticker Request Form](https://www.upmd.org/FormCenter/Town-Clerks-Office-11/Parking-Permit-and-UP-Sticker-Request-Fo-67)
+
+# Police Chief Baker
+- not many seem to know that the town reimburses (up to $100) for security systems (Home Security System Rebate Form)
+- sgrady@upmd.org is a notary and has been trained in car seat installation
+
+Overall, many of the town employees are notaries….too many for me to keep track of. Perhaps email our Town Clerk Andrea if you need notary services? 
+
+# Mickey Beall
+- still working on permitting for “Phase2b” sidewalk install on Clagett Pineway / etc.
+- Electric charging on Queen’s Chapel Road: Updated electric panel. 3 online as of today (1 fixed recently). Remaining 3 should be up soon (when some parts come in). Level 2 chargers.
+- compost program is 10 years old! Nearly 40% of town now uses it. 
