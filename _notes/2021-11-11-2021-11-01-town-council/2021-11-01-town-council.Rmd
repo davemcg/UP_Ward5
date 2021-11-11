@@ -1,0 +1,74 @@
+---
+title: "Town Council 2021-11-01"
+description: |
+  Yay more road destruction
+author:
+  - name: David McGaughey
+    url: {}
+date: 11-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# WSSC and Washington (?) Gas town wide project
+
+Repairing / replacing piping. Which will tear up roads, of course. 
+
+We are asking for MOU for money to repair the road "scars" ourself
+
+- They (WSSC / Gas) will temp patch (ugly)
+- Then town later will use $ to repave (pretty)
+- In the past they give more $ than we need to do repaving ourself
+- So thus we get some “free” repair work
+
+# Town Council approved variance for 6 foot fence
+
+- Apparently the “back edge” of the house is where the 6 foot fence has to end
+- but they had a small (1/3 width of house) addition and wanted the fence to match the “old” back edge of house
+
+# 11/16 is the public hearing for the PG County district map redistricting
+
+- We are all very mad
+- We will update and re-send the letter to say we still hate the sham “compromise” plan
+
+# Adelphi road purple line plan
+
+- County planning for high density at Adelphi / University Blvd
+- +2000 new units?
+- Town must keep track of the development
+
+
+# Town will likely be disbursing donations to food banks in the area in early December
+
+- several area food bank needs
+- Len is coordinating with other local mayors and Danielle Glaros
+- Much overall need, town trying to be fair and distribute in an equitable and useful manner
+- ~125k for December
+
+
+# RFP for Town Hall work
+
+  - We have $240k in our "piggy bank" for the town hall
+    - (well we put in 40k and the state of MD put in 200k)
+  - Goals:
+    - Temporary (?) office space for ~30 person meeting space
+    - Indoor workspace for public works (same as the meeting space?)
+    - Building security (cameras)
+    - Storage shed (separate structure - nothing intricate)
+    - Upgrade electrical systems for charging of electric vehicles in the future
+  - To be clear: WE ARE NOT DOING ANYTHING - THIS IS AN RFP, A REQUEST. 
+  - Furthermore: THE COUNCIL WILL REVIEW THE RFP BEFORE IT GOES OUT
+    - General agreement that the last proposal (the $4,000,000 Arnold one) was not well specified
+
+# 2021-11-02 Len Chat
+
+  - Mayor concerned about Trader Joes effect on parking in Ward 5 - perhaps alter parking rules / signage in Ward 5 and 6 (Whole Foods also potentially causing some parking issues?)
+  - Potentially hire part time parking enforcement
+  - We worry now so we are prepared should there be an issue in the future
