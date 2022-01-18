@@ -1,0 +1,46 @@
+---
+title: "Town Council / Notes 2021 01 17"
+description: |
+  Got behind, sorry
+author:
+  - name: David McGaughey
+    url: {}
+date: 01-17-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Belated post
+Yes, I got a behind schedule and have missed a few posts. So this is a catch-up post.
+
+# Council
+
+## Adelphi Road Sector Plan
+Soon MNPCC will meet to potentially pass the [Adelphi Road Sector Plan](https://arsp.konveio.com). Guilford Woods is within this (very small) sector plan and the plan, as currently constructured, would place high density (in the 4 story or so range) housing in the woods. The town of University Park authorized a letter asking MNPCC to alter the plan to preserve the woods, improve the intersection at Adelphi/Campus Drive/University, ensure that any development at the Guilford Woods / Guilford Run headwaters not worsen flooding issues, improve public facilities, and pedestrian connections. The town will also ask for a pause* in the plan time table to properly implement our requests. I believe the towns of College Park and Hyattsville have similar concerns and will be sending similar letters. 
+
+* The Mayor did say he thought it was unlikely a pause would be granted
+
+## Plowing
+After the snow storm on January 2-3rd, Mickey Beall (Public Works Director) reported the town was 100% plowed by 5:30 on January 3rd. I can't track it down right now but I recall getting an email from a PG county touting 80% of the county roads were cleared by January 5th.
+
+# Public Safety Subcommittee
+The town staff requested a town-side set of parking changes to alleviate two issues:
+
+1. Walk offs (people parking, then walking away)
+2. Tight turns / sections that impede town vehicles (mostly the garbage trucks)
+
+Two requests were made for Ward 5:
+
+1. Remove all parking on North Pineway from Baltimore to Oakridge. I strongly recommended against this change as there is "college housing" with a large number of parked cars at the 6934 Pineway which 1. help slow traffic into the neigborhood and 2. would just push them to park further into Ward 5. 
+2. Remove parking across from the Mews alley at Oakridge to help the garbage trucks make the truck out. I am communicating with the owners who are affected to ensure they are OK with the proposed change. 
+
+# Phase 2B
+The sidewalks are to be added at Clagett-Pineway soon. If you received a strange letter from the SOLTEZ group about "A concept and stormwater management plan"...it is in relation to the sidewalks. Nothing nefarious. Thanks to the the resident who informed me about the ... strange letter. So if you got one (because you are within a block of the sidewalk) do not be alarmed. I'll talk with Mickey about getting more useful correspondence in the future. 
+
+

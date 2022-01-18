@@ -1,0 +1,31 @@
+---
+title: "Traffic Control"
+description: |
+  The toolbox
+author:
+  - name: David McGaughey
+    url: {}
+date: 09-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.dropbox.com/sh/jelqydg3cop7uds/AACu9OMgyqrhpAzEcSH1Yb7Qa?dl=0&preview=City+of+Bowie+traffic+calming+policy.pdf
+
+# Level 1
+## Speed Awareness
+Speed camera sign
+
+## Pavement Marking
+Note parking spots. Point is to visually reduce street width.
+
+## Level 2
+
+
+
