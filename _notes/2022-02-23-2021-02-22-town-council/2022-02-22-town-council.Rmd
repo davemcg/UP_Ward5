@@ -1,0 +1,79 @@
+---
+title: "Town Council 2022-02-22"
+description: |
+  Another catch up post
+author:
+  - name: David McGaughey
+    url: {}
+date: 02-23-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Apologies
+Again, it has been a bit too long since my last post (a month!)
+
+# Brief Updates
+
+1. Murky water continues to be an issue in Wells Run (due to the development south of Northwestern High School). The town is aware and continues to work with PG county to get the developer to properly install runoff controls.
+2. Legislative request to the Maryland legislature for bridge replacement. The council authorized a request to get money matched for the pedestrian bridge replacement(s). The town has already spent a bit of money (on the bridges themselves) but has balked at the full replacement as the cost for the install alone was breaching six figures. This would be “free” money to the town, if the request was proposed.
+3. The town plans on buying our own traffic counters to be quantify in-town traffic impacts
+4. The speed camera on Baltimore Avenue will go live very soon (mid-March)
+5. Voting for Wards 1, 3, 7, and Mayor (Mr. Carey is term limited and, to the relief of his wife, will not be running) on **May 3rd**. Both voting by mail and dropoff. 1pm - 8pm in person voting. Same system as the last election.
+
+**April 4th cut-off date for new residents to register to vote.**
+
+- If you previously lived in UP but moved, **you must update your address.**
+
+6. Shuttle buses are to be sold. See further down for more details.
+7. Art in the Park (thanks to the Freeman's and Groppe's) was a big success last year - the council was happy to the last Saturday in September "Art in the Park" day.
+8. Engineering firm hired to address storm water issues (see below for more information)
+
+
+# Traffic Factoids
+
+Chief Baker reported that the 4300 East-West Hwy camera had 3,864,432 vehicle passes and the 7000 Adelphi Rd camera had 2,276,226 vehicle passes from September 12th 2021 to February 4th 2022. That napkin maths out to 15 to 25 *thousand* cars per day. In one direction. 
+
+The town continue to rake in money ($70,000 in January alone) from the automated speed cameras - I think we will comfortably "max" out our revenue intake from this program (we can keep no more than 10% of the total town budget). Again, the goal is *not* to fund another revenue stream, but to reduce vehicular speed around us. 
+
+# Transit Task Force II 
+
+The council has authorized sale of the "old" town shuttles. This is not the "end" of the town shuttle, but rather a chance for a pivot. The mayor has asked me to chair a "Transit Task Force II" committee - which will be composed mostly of town residents who have very kindly offered up their time. The goal of the committee will be to produce a white paper that covers a few topics:
+
+1. Assess future demand for local bus and para-transit services. Are there other or better options for each, such as micro-mobility, which will affect the future demands for them?
+2. Should the program be restarted, what should the route(s) be? We will have a purple line (so help us) and have other potential destinations to consider (College Park Academy, Whole Foods, UMD, Discovery District). How to equitably place the stops in town?
+3. Prioritize low to zero emission vehicle options
+4. Estimate start up *and* running costs
+5. Work with Town Administrator to identify potential start up grant sources
+6. Present preliminary report in mid September and final report by early November 2022. 
+
+The generous members:
+
+1. Emily Alvarez
+2. Marya Link
+3. Joe Schultz
+4. Margaret (Maggie) Wessling
+5. Carol Weese
+6. David Tully
+7. Staff Liaison - David Deutsch (Town Administrator)
+8. Helping Hands Liaison - Linda Verrill
+
+# Stormwater
+
+The council authorized the town to contract out to the engineering firm Rummel, Klepper and Kahl ("RKK") to study storm water control options.
+
+The council was a bit apprehensive at the lack of details delivered regarding deliverables or scope. We have been waiting for months about hiring a firm and at least I was expecting to get a bit more detail than "here is a contract full of boilerplate." Most of the council inquiries were along the lines of "wait, what are we hiring them to do exactly??" and "how much will this cost??"
+
+The mayor agreed to add a $50,000 spending cap to the contract. The mayor and TA Deutsch both made clear they understood our concerns and would be carefully monitoring the work of RKK. 
+
+My hope is that we will get a rough idea of what what projects can produce a useful amount of storm water control at a cost rougly within the bounds of the ARPA (free federal funds) that the town has been allotted. 
+
+The town has a list of potential projects (many rain gardens) as well as the storm drain upgrade / install along Clagett-Pineway. 
+
