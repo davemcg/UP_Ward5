@@ -1,0 +1,79 @@
+---
+title: "2022-05-17-Town-Council"
+description: |
+  Budget Mush
+author:
+  - name: David McGaughey
+    url: {}
+date: 05-20-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# New Mayor!
+
+Congrats to Ward 1 Councilmember Joel Biermann, our newly elected UP Mayor!
+
+# Why no posts for so long?
+
+1. Work busy
+2. Life busy
+3. Council budget season is just madness with 3+ hour meetings which turn my already squishy mind into mush
+
+# Most important  - STOP USING THE BLUE USPS DROP BOXES FOR CHECKS
+
+There have been several cases in University Park where checks have been STOLEN OUT OF THE BLUE USPS BOXES. Apparently thieves have the keys and are ransacking the boxes for checks. This sucks. Stop using the boxes ASAP. We have two checks we sent recently which...haven't arrived been received yet and we are nervous. This is a DC-region [issue](https://www.washingtonpost.com/dc-md-va/2022/05/01/chevy-chase-mailbox-stolen-checks/).
+
+If you have sent a check please verify that the recipient has gotten it! 
+
+# Budget 
+
+We passed the budget on Monday May 16th. 
+
+Notes:
+
+  - 2 new police officers
+    - Why? The town has been on 8 officers for many many years. 20? More? The increasing densification around us appears to be driving more incidents in town. The Chief has been running his officers ragged (denying or delaying leave granted) over the past year and has been spending more on overtime. The Chief has been concerned about delayed response times at night. While crime is low, there have been some troubling incidents. This was a tough vote - there was a motion to only hire one new officer instead of two, contrary to what the Chief and the Mayor wanted. This motion failed 4-3 (I voted against, which meant I essentially voted to hire two officers). In the end, I decided to trust the Chief when he said he needed them. 
+  - Taxes are the same for you. You pay the same amount (at least to UP) that you paid last year. And the year before. I forget when the last tax increase was. Given the rampant inflation I think it will be difficult to continue to keep taxes level. Expenses have gone up fairly dramatically in some cases (gas). We are raising town employee salaries (by 3.5%, which does not come close to matching inflation calculated at over 6%). We have managed to keep taxes level because of increased revenue from the speed cameras and COVID-related emergency funds. Neither of which are long-term revenue streams.
+  - Factoid: UP gets about 30% of the total on your property tax bill. The rest goes to PG county / Maryland. **If your tax bill is higher than last year's, it is not because of UP.**
+  - The council requested and allocated money to install EV chargers at town hall and make the first tentative move to electrify the town's vehicle fleet.
+  - $65,000 towards improving security at the town garage and evaluating improvements (roof and improve inside layout)
+  - \$300,000 for two new pedestrian bridges. One to replace the missing bridge and the other to replace its very very old twin. I attepted to halve this amount as I argued we should only replace the missing bridge. This failed. \$125,000 of the \$300,000 comes from the state of MD as a grant.
+  - \$300,000 for new tot lot equipment. \$250,000 of this comes from a state grant.
+  - Parking Enforcement: a few thousand has been allocated towards this. While nothing concrete has been set up yet, the idea is to begin some form of parking control. Not to raise revenue or harass UP residents parking the wrong direction...but as another means for the Chief to help keep track of issues. He has expressed concern that the town is considered a safe place to hang out or conduct "business." On the west (Adelphi) side of town there has been persistent issues with cars from out of the town parking within UP. 
+  
+# Ward 5 Block Party
+
+I was hoping to organize one on Oakridge in May, but we we couldn't make it happen (my wife co-directed Azalea Classic and budget time really increased the work load for me). Given the increasing COVID case counts (wear masks inside!) and the near entry of the summer heat wave, I am now planning on holding it in the late summer / early Fall.
+
+Here is what I need from you:
+
+1. Someone to host a bounce house (a flat-ish front yard on Oakridge)
+2. Someone to help collect funds for the bounce house (it should cost around $200)
+3. Someone to set up music (either speakers with a playlist or a band?)
+4. Someone to organize the pot luck (roughly coordinate who will bring drinks/snacks/plates/etc.)
+
+# Upcoming issues for the year
+
+1. Tree ordinance. I will vote for it - I think it is fairly modest in scope. Essentially if you have a big tree, you can't cut it down without asking first. If you do, then you are fined. This is to help protect the stressed out tree canopy in town. On both sides of our house we lost *all* the large trees - one because an elderly resident became scared that the large trees would fall on her house. Her landscaping company was very happy to oblige. Another because a local developer decided to virtually clear cut the lot before getting permits to build a giant college housing object. Which....many years later is still not happening. I think the ordinance, if it existed at the time(s), would have helped. After each of the tree clearing incidents we lost large trees in **our yard** in high wind events - trees grow together and it is very stressful for large trees to suddenly be more exposed. 
+2. Parking - I don't believe many details of this have been worked out. But obviously this *could* be a fairly substantial change to the streets if a "heavy" option is used. By "heavy" I mean the town would require a permit to park in town and visitors would require a temporary parking tag. I don't have any idea where this is going right now but will keep you updated.
+3. Shuttles. To briefly summarize, the town had a shuttle program. It was fairly expensive, costing around \$100k / year (or about \$105 per house a year) given it was used by very few residents (around 80 trips a day if I remember correctly). The full town revenue is around 3.5 million. Obviously programs like the police or the public works department cost far more - but everyone in town benefits from that. Mayor Carey shut down the shuttle when COVID happened - as it was unclear how to run the shuttle safely - and usage plummeted. One major issue with the shuttle system was that the size of them required a CDL license to operate, which made it more difficult to find drivers, especially given the part-time nature of the job. The Mayor also set up a "Transit Task Force" to evaluate the shuttle program. They produced an excellent report, which you can find [here](https://www.upmd.org/DocumentCenter/View/1779/UP-Transit-Task-Force-Report). 
+
+I am the chair of the *second* transit task force.  Which includes many town residents donating their time. We meet the second Tuesday of each month. Like all meetings, they are open to the public. We are to make a decision in the Fall. Around November we are to give a presentation and finish our report. I will tell you that, from my perspective, I am currently finding it difficult to justify re-starting the program given: 1. the fairly sparse usage of the program before COVID and 2. the dramatic decrease in commuting post COVID (the local metro stops have about **33%** of their pre-COVID ridership right now). But we **will** produce our survey and distribute it. If we find that a huge amount of the town desires a shuttle program (**with the accompanying costs**) that would certainly be influential!
+
+We have also asked the Town Administrator to work out what the costs of the program would be with a smaller (15?) person shuttle that would not require a CDL license. 
+
+Some other shuttle-related tidbits:
+
+1. No, random people can't drive the shuttle. 
+2. No, volunteers cannot drive the shuttle. Unless a small number of people wanted to undergo training and etc etc for some unknown reason. But we aren't running a shuttle program on the idea that residents will undergo training and donate their time to drive a shuttle around for 4 hours a day indefinitely. 
+3. If you are approaching this issue from a climate angle, then you could argue that removing car trips is highly beneficial. As I see it, if very few people use the shuttle (and thus it is driving around empty all day long) then it may not be very beneficial. **Furthermore** there are opportunity costs. \$100,000 spent on a shuttle is money that cannot be used on, say, solar panels or EV police cars / public works trucks.
+4. One thing that is fairly different from when the shuttle was started up is we now have a large scooter program.
+5. From what we have heard, the paratransit usage of the shuttle was modest and it appears that volunteers (with their personal cars) are handling paratransit requests without much strain. 
+6. There was widespread agreement that the previous shuttle route was ... not optimal and was confusing to understand. A new shuttle program would have a new route. 
