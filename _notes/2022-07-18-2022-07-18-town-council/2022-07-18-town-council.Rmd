@@ -1,0 +1,73 @@
+---
+title: "2022-07-18-Town-Council"
+description: |
+  July update
+author:
+  - name: David McGaughey
+    url: {}
+date: 07-18-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# New Mayor and Councilmembers
+
+Joel Biermann is the new mayor - mayorbiermann@upmd.org
+
+Ralph Dubayah (Ward 1) and Bill Sweet (Ward 7) are new councilmembers.
+
+Chairs have been shuffled a bit on the sub-committees. I am co-chair (with Martha Wells) of the DOC (development), Mary Gathercole is the new chair of the Public Safety Committee, and Nat Morgan is the new chair of the Public Facilities Committee.
+
+# Microburst Storm (7/12/2022)
+
+Mickey Beall called the Public Works staff in that same night to work with the UP Police to identify and mark downed trees and limbs and immediately began coordinating removal of trees and debris. Public Works staff cleared all debris by the following Monday (July 18). 
+
+# Adelphi (Town Administrator Deustch)
+
+Light timings of pedestrian crossings have been double checked at Toledo and Belcrest.
+
+The empty synagogue across the street (near the PG county community center) will be demolished soon (within a month). The county owns the lot and, longer term, is planning on using the space to expand the community center. 
+
+After David Deutsch's persistance, PG County is now considering a "pedestrian island" at the Tennyson/Adelphi intersection (non-signalized crossing). He hadd requested A HAWK signal (big blinking pedestrian-activated light bar that signals cars to stop), but the county does not sound particularly interested. They didn't say no at this time. These are expensive lights - around $100,000 and the town would likely have to pay for this. 
+
+# Chief Baker
+
+New officer hired 7/14. His name is Peter Shepherd. I think I heard he was a top marksman and swimmer at Hood (?) Academy. One vacancy remains - the Chief is currently reviewing candidates. 
+
+Active shooter training will be conducted at University Park Elementary this summer (August 17th I believe). The Chief is requesting other neighboring police forces participate. High on the list of conversations I did not ever expect to have was a chat I had with Chief Baker after the Uvalde disaster. I told Chief Baker that, should there be an active shooter at UPES, I expect our police officers to respond immediately and push forward **without hesitation** until the shooter is neutralized. I told the Chief I would support any training necessary to get our police force familiar with the layout and procedures of the school. Chief Baker said he understood and that he and Mr. Deutsch were working on a updated active shooter plan. He reiterated at the July 18th town council meeting that he expects the plan to be done by September, about at the start of the school year.
+
+# Tree Ordinance
+
+A reminder that the UP tree ordinance is **in effect** - any tree with a circumference over 50 inches at 4.5 feet (multi-stem trees are measured at the same height and have a more complicated formula) needs to have a permit for removal. Of course Mother Nature needs no permit and will aggressively cull trees whenever she feels like it. Contact TC Hegeman <thegeman@upmd.org> if you need a permit. While this is a new program and the town will have to work out the exact process, the intent is to quickly confirm whether a tree is in poor health. If you have a multi-stem tree, the town will soon (?) provide a calculator of some kind. But in the now-term, please email lmorrissey@upmd.org and karinburghardt@gmail.com with the diameters of the trunks at 4.5 feet if you need clarity. 
+
+# Phase 2B
+
+After a long delay, "Phase 2B" of the town road/sidewalk improvement project will resume. In Ward 5, sidewalks are to be added to the south side of Clagett-Pineway, a rain garden (which replaces some extraneous road) will be installed at Woodberry / College Heights, and the temporary speed bumps on Pineway will be replaced with permanent ones. This work is expected to start in September/October. The permit for this work was *just* issued on Friday, July 15th. A major issue is that the cost for this last slice of the town infrastructure improvement have gone up substantially. The town is still awaiting the final costs as the contract is being re-negotiated. The town "piggybacks" on a contract that the county negotiates with the contractor (Soltesz / NZI I believe). Once this finishes, the town will be (for the near future) done altering the sidewalks/roads in town.
+
+# Who do I email if I need a thing?
+
+A reminder:
+
+1. Is it permit related? TC Hegeman <thegeman@upmd.org>
+2. Is it related to public works / trash / town trees / overgrown foliage near-ish to public areas? Michael Beall <mbeall@upmd.org>
+3. Is a traffic light or pedestrian crossing not working or is weird? David Deutsch <ddeutsch@upmd.org>
+4. Do you have no idea?  David Deutsch <ddeutsch@upmd.org> and/or myself (David McGaughey <dmcgaughey@upmd.org>)
+
+# Other stuff in the short/medium term David headspace
+
+1. Town stormwater plan (awaiting report from contractor - should get *something* in the next few months). This would use most of the remaining "ARPA" (free federal money) funds. 
+2. Town hall update (awaiting bids/proposals on a fairly modest plan - a temporary (?) office/building that can double as meeting rooms / employee
+break room, dry storage for public works in town, chargers for electric vehicles)
+3. Town Transit (shuttle) Task Force II - survey to gauge usage/interest will likely go out in September. Mr. Deutsch just received a preliminary quote - an electrified F350 12-person shuttle would be around $96,420. Ms. Verrill has nearly finished designing the survey the task force wrote. The council has seen a draft and didn't have any substantial changes. It will be mailed to about half the households across town. Why half? Well to make a modest attempt at preventing any interested group in "stuffing" the ballot box, it was decided to randomly select households to receive a survey. The survey is NOT a referendum, but merely another data point. Please email your councilmember your opinion. 
+4. Town garage improvements (roof replacement, redesign some interior space to make more useful)
+5. DOC - some short discussion about having the committee write a white paper that would lay out medium/long term thoughts on how the town could change (or not) as development (much of it higher density) grows around us. The appearance of the town at the borders (Baltimore / EW Highway / Adelphi) weighs heavily on the members of the DOC. Any thoughts on how to encourage better care of these (mostly rental homes) would be appreciated. The town is not an HOA, so I personally have zero interest in establishing rules on paint color, garden beds, and mailbox placement. 
+
+    - The DOC has also noticed how "ADU" (Accessory Dwelling Units) are being mandated at a region/state level in many places across the US. Montgomery County is working on formal rules for these units right now I believe. PG County currently has no rules and effectively these types of living spaces are not allowed.
+
+All of these are in the fact finding phase (or earlier) and no substantial funds are being apportioned for any of these. So you can just keep your pitchforks oiled and dry for now. Well, money is being spent on the #1, but only for engineering / contracting / design costs. This would potentially be a million (?) dollar plan so we have to plan it, not just point our fingers and rip up curbs, roads and parking lots. I doubt we can afford to do everything on stormwater that is proposed, so we will have to pick based on impact. 
