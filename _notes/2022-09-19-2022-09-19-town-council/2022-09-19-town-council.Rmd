@@ -1,0 +1,72 @@
+---
+title: "2022-09-19-Town-Council"
+description: |
+  The heat breaks!
+author:
+  - name: David McGaughey
+    url: {}
+date: 09-19-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Parking Enforcement
+
+Chief Baker desires selective zones for parking permitting. Chief specifically mentioned "North" Pineway near Baltimore Avenue as an area where the police are getting regular complaints. The overall goal is to allow the police to quickly determine which car is owned by a resident and then the police, when they have time, can hand type in plates to see whether they are a resident of UP (no ticket) or not (potential ticket). This would require, at the bare minimum, residents of certain areas to agree to get (and use) new UP parking permits. 
+
+I asked the Chief on how to deal with about contractor visits, friend and family visits, etc. He replied that he imagined that people could just email him beforehand. 
+
+I expressed concern about the inconvenience of having to get permission for visitors. I would assume that if "accidental" tickets get written, it would be fairly easy to get them dismissed. 
+
+**Please send me your thoughts on this - would you mind if you were required to have parking stickers (numbered?) on your vehicles?**
+
+# Town Shuttle Survey
+
+Half of the household will get a survey very soon. Please fill it out! Even if you don't know what the shuttle is. Or if you never used it! Ideally everyone would return it. To be clear - this is NOT a referendum on whether the town will restart the shuttle program. But we are trying to figure out what the demand could be and also the general level of support for a shuttle program.
+
+# Ward 5 Block Party
+
+Thanks for everyone who came! We had a great time. It wasn't *that* hard to organize - so perhaps someone would consider taking up the mantle for next year?
+
+# New Tot Lot
+
+Awaiting new design from installer. Expect to see it soon. 
+
+# Ward 5 Stormwater
+
+This is in regard to the below standard stormwater system at Clagett-Pineway/Pineway. 
+
+A town-wide map of the stormwater system can be found here:
+https://www.princegeorgescountymd.gov/DocumentCenter/View/37140/Muni_Map_Landscape_UNIVERSITY-PARK?bidId=
+
+On the urging of dedicated residents of our Ward. I am focused on working with Mr. Beall (Public Works Director), David Deutsch (Town Administrator), and Mayor Biermann on expediting the process for the town to update the stormwater system in this area. This is the rough process (about 18 months):
+
+  1. Town (actually we contract out to an engineering firm) 30% designs the stormwater update
+  2. Town submits the design to the county
+  3. County approves plan and writes us an MOU (memorandum of understanding) that the county will, when the project is done, reimburse the town and take control of the system
+  4. Get to 100% design/permitting. This takes the longest and is negotiated between the county and the contracted engineering firm.
+  4. We get quotes for the work and secure funding
+  5. Break ground
+
+# Treasurer Baden
+
+Trajectory of 2.16 million dollars annual revenue from speeding cameras. Remember, we can only retain up to 10% of town revenue from this pot of money. Crazy numbers, though.
+
+# Public Works Director Beall
+
+Installed and update traffic control at UPES before school started. A programmable beacon. This blinks during school arrival and departure. Town also increased the size of dropoff zone on Underwood. Mickey believes the updates are well received from school, parents, officers, and crossing guards. 
+
+Phase 2B: for us, this is the new sidewalks on Clagett Pineway. This is held up as the county fights with the construction companies on negotiating rates (the town "piggybacks" on these contracts, which save us money as we are not in a good position to negotiate rates on our relatively small road projects). Mickey is hoping to present to council in early October for start in late October. 
+
+# Traffic
+
+This just a rough sketch - but the Public Safety committee is trying to create a more general framework for addressing problem parts of town. At the last meeting a resident of "West" Van Buren was complaining about high speed traffic. This road was recently used to measure traffic and while the traffic counts were quite low (dozens a day), a huge proportion of the cars were going over 25mph. Some over 40mph. In the short-term we requested the Chief move a blinking speed camera to this road. Medium term, maybe move the temporary speed humps on Pineway and Clagett (when they get replaced with "real" ones soon). Longer term, I still think the town needs a bigger "toolkit" than speed bumps. I am happy that the Chief has purchased movable blinking camera signs. This is a new tool and evidence suggests they are quite effective. We may need to allocate some money to buying more of these. I am a broken record on this and perhaps everyone else is tired of hearing me say it - but I think the town should also consider putting giant concrete obstacles (flower pots or whatever) in the road to force drivers to pay more attention.
+
+# Maybe consequential but I have no idea right now
+
+Apparently Pepco is offering to "sell" the streetlights to the town. Mr. Deutsch will look into whether this makes any sense. I know the Mayor and a few councilmembers were interested in getting LED lights to simultaneously increase lighting on the roads/sidewalks and make it more directional (less light "spilling"). Also, this would reduce the electricity that the town (apparently) pays to run the lights. 
