@@ -1,0 +1,88 @@
+---
+title: "2022-12-18-Town-Council"
+description: |
+  Last 2022 Update
+author:
+  - name: David McGaughey
+    url: {}
+date: 12-18-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Free as in beer
+
+In case you were not aware, the town is providing free EV charging at UPES. Why? Let me explain.
+
+1. The charger hardware was free (literally free)
+2. The town did have to pay to upgrade the electrical infrastructure to support the chargers
+
+So there was not huge outlay of money to provide the chargers at UPES. 
+
+We are not charging for the electricity for the following reasons:
+
+1. It is not a noticeable amount of cost to the town*
+2. We generate a lot of power from the solar panels at UPES - so it may cost the town even less than I estimate below
+3. The chargers encourage EV adoption (residents have stated they felt more comfortable buying an EV as they knew they had somewhere safe and convenient to charge)
+4. Charging for charging *costs money* (administrative overhead, setting up a payment system, credit card fees, etc)
+
+That said, if the cost becomes an issue, we can re-visit the payment question. 
+
+\* Napkin math. Pepco charges my house about \$0.15 for 1 kWh. One charger outputs around* 4 kW per hour. So 4 * 0.15 ~ \$0.60 for one hour of charging. If all eight chargers were in use 24/7/365 this would cost \$40,000 a year. Now, that is not the reality. I bike past UPES all the time and the most cars I've ever seen charging at a time is about six. Usually 0-1. The town administrator has been asked what this is costing the town and his impression is that this is "not a noticeable amount of money."
+
+* based on me looking at some chargers in use
+
+# New town administrator
+
+We don't have one yet. The town/Mayor is trying to get a new one as quickly as possible to reduce the gap between the outgoing and incoming administrator. Mr. Deutsch, as of 12/16, has retired from his position. He will not stay past that date (we have asked). This was supposed to be a six month job for him, and he is now 2+ years into the position. The position has been advertised and the Mayor will put forward a candidate. The council's role will be to vote up/down the hiring of the candidate. Interviews are being scheduled with the six or seven candidates. Council members are encouraged to attend the interviews. 
+
+# Stormwater system update
+
+There are two parallel tracks of stormwater planning in town. This is in reference to the "county acceptance" stormwater issue where certain parts of the town's stormwater system are "substandard" and need to be improved to get the county to assume responsibility. This will, eventually, cost the town about $0. But it involves a lot of paperwork, planning, and inflow of money. The Soltesz firm recently has returned the preliminary plan for the updates, which has be sent to the county to begin to bureaucratic process. It is budget time at the county and we are hoping that the county will put the cost of the program (1.7 million dollars worth) into next year's budget. Micey has spoken to the county level contacts and they seem (so far) cooperative (as in they don't seem confused and dismayed at our actions so far). 
+
+The largest expense, by far, is under Clagett-Pineway. The new system will involve 72 inch diameter pipes (which would be the largest in town) and run the entire length of Clagett-Pineway (currently the system starts at Clagett-Pineway / Clagett). 
+
+Clagett-Pineway has flooded several times in the past few years and this flooding has resulted in basement inundation for several Ward 5 residents. The town is fully committed, from the Mayor on down, to updating the system with all haste. We cannot promise that these fixes alone will solve the flash flooding, but this is the first step. 
+
+# Police Requests
+
+## Big one
+This is a big ask and I would appreciate your comments: Chief Baker wants to place 12 "smart" video cameras at major entry points in town. He is concerned about incidents being caused by non-resident pedestrians. The police have very little information after incidents occur (thankfully most are fairly minor - like package theft) and the county police has no interest in investigating if there isn't any concrete evidence. UMD and Hyattsville are using similar camera systems. 
+
+The Chief views the camera system as a police "multiplier" as it will allow for the overnight officers to get automatic alerts if movement is detected and will help in investigating incidents.
+
+Some details:
+
+1. Exterior focus (not monitoring "in town" movement)
+2. Data is held on-site in town hall. Deleted after 30 days.
+3. There will be a written policy governing usage
+4. Initial cost: \$180,000 (Chief Baker has applied for a \$100,000 grant to defray the cost)
+5. Recurring cost: ~$12,000/year
+6. Police *will not* monitor the video (live or otherwise). The video will only be used in two ways:
+    - auto-movement alerts at night (so police are aware of unusual activity during the overnight shifts)
+    - reviewed after a crime has occurred
+7. If homes are in view of the cameras, the residents will be contacted and offered the option of having a digital "mask" applied over their home.
+
+I'm of two minds: 1. this will make the police substantially more efficient and more capable to quickly respond to incidents (especially at night) and 2. I'm concerned about the privacy implications. The cameras are essentially placed at all egress points in town and so your movements are being recorded as your leave town. The Chief points out that cameras like these are EVERYWHERE so the panopticon being proposed is already in place all around us. But still, the libertarian in me is a bit uneasy. I am happy to see that the video is being permanently deleted after 30 days - this removes a lot of my imaginary issues.
+
+## Smaller one
+
+The next ask is a retention bonus for the officers. This will cost about \$40,000 in total. Eligible officers will get up to \$5,000. If they accept the bonus they must stay on the UP force for three years (or they have to pay back the bonus). Police staffing is especially difficult and just about every "competing" police force is offering large bonuses. Chief Baker states this is not intended to be a yearly occurence. I plan on supporting this request. 
+
+# Treasurer
+
+Dan Baden will be retiring end of this year. We will advertise the position and work on hiring another treasurer. From what I've been told we have a separated book-keeper, so regular payment and payroll actions will not be affected. 
+
+# Code Compliance
+
+We have had a new officer (John Rodgers) for about three months. The outgoing town administrator says he has been doing a good job so far. Remember, if there are any complaints regarding property maintenance, they can be routed to him. 
+
+# Stay safe and happy holidays!
+
+Please consider masking inside - the kids are getting ravaged with various diseases (I think my daughter's K class was 30% absent last Friday).
+
