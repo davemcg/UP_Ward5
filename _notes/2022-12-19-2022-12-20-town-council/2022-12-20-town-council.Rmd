@@ -1,0 +1,61 @@
+---
+title: "2023-01-03-Town-Council"
+description: |
+  Happy New Year!
+author:
+  - name: David McGaughey
+    url: {}
+date: 01-08-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+# Stormwater
+
+RKK / town finally sent over their town-wide stormwater project ideas. Again - this is *different* than the "Soltesz" design which is being used to get the county to "accept" our updated stormwater system changes. 
+
+Most pertinent to Ward 5 is the "empty lot" next to my house, at 6922 Pineway. The engineers were surprisingly interested in turning the empty lot into a "dry pond" to help retain excess water. This would require two things: 1. the town deciding to do it (at a proposed construction cost of approximately \$350,000)
+2. the town purchasing the lot from the private owner (at who knows what cost - but it was last purchased for about \$150,000)
+
+I asked the engineers whether they thought this dry pond would be helpful for our ward or whether it would mostly help Guilford Run / College Park. They said the pipe improvements upstream (Clagett-Pineway) would increase the flow of water and the dry pond would help in intense storm situations. They are also working on the "Calvert Hills" project downstream of us and said they think it would, holistically, be a good project for the area. Mickey said he would verbally discuss it with the county and see whether they would potentially *also* pay for this project with the existing Soltesz/stormwater acceptance program. RKK engineers said they *thought* that College Park would be interested in partnering on this. Interesting, but that is a lot of maybe. 
+
+In general the stormwater improvements that RKK proposed can be binned into a two categories:
+
+1. New inlets and expanded pipes (move water into stormwater pipes more efficiently)
+2. Bioretention areas ("dry ponds" in certain areas)
+
+I was hoping for a bit more stormwater "holding." I spoke with Mickey about this and the answer is fairly simple: there are no easy places that the town controls to put water. Most of the park already fills with water during intense downpours. Mickey thought that the only way to substantially hold more water was for all homeowners to install more rain gardens. So perhaps that is something that the town / a committee needs to look into further. 
+
+# 2023 Town Election
+
+It normally would be May 2nd (the town charter says "First Tuesday in May"), but the town clerk said it was a tough date, as it was the day after a council meeting. Last election (uncontested) she worked 24 hours in two days. It has been set for May 9th, 2023. Ward 5 is up for an election in 2023. I am leaning towards running again. If you are interested in the position I would be happy to speak with you about it. One difference is that there will be a small (if I recall correctly around $2500) stipend for the Councilmember. 
+
+# Soltesz Stormwater "Acceptance"
+
+This is in regards to the substandard piping / inlets underneath Clagett-Pineway that contributes to the flash flooding. 
+
+The town has submitted the plan to county. Scheduled date in mid January to discuss whether the county will be amenable to accepting our plan and whether they would be adding the funding for this into next years budget. 
+
+# Phase 2B / Clagett-Pineway
+
+In progress as all of you have noticed! We will soon have a fairly continuous set of sidewalks from Baltimore -> Pineway -> Claggett-Pineway -> Woodberry -> College Heights.
+
+# Town Administrator Hiring
+
+Still in progress. The Mayor wrote *in December* for the January newsletter that "I advertised the position, accepted resumes, conducted interviews, and submitted my nomination to the Council for approval. The Council will vote at the first January meeting, and I look forward to their full support."
+
+The highly abbreviated closed interview session (about 2.5 hours allotted across 5 candidates) happened on December 29th. They were asked identical, pre-selected questions. 
+
+Most of council returned comments (and sometimes rankings) by January 1st. There was no follow on interview session.
+
+At a closed session before the 2023-01-03 Town Council Meeting, the Mayor informed us of his preferred candidate and this was discussed. The Mayor withdrew the approval of a Town Administrator from the open meeting agenda after the closed session. No vote was taken to approve any candidate.
+
+That is where we stand. 
+
+The Mayor is in charge of the hiring process and he will determine how it proceeds. There is currently a lot of vagueness on how the hiring process should take place and I would not be surprised if the council, in the future, adds some structure.
+
+# Camera grant
+
+The Chief/Town applied for a $100,000 grant to install those fancy surveillance cameras around town. We did not get the grant. 
