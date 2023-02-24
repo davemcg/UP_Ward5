@@ -1,0 +1,58 @@
+---
+title: "2023-02-23-Town-Council"
+description: |
+  February Update
+author:
+  - name: David McGaughey
+    url: {}
+date: 02-23-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# 2023 02 06 Town Council Meeting
+
+VeoRide presentation from Jeff Hoover (“Director of Government Partnerships”). Fixing parking zones. There are issues with town borders as the scooter auto-deactivates and the only “linking area” is the NE edge of town (where UP borders College Park). None of Hyattsville or Riverdale is a VeoRide area. Forced parking zones are now live. Jeff says that the GPS/photo enforcement is about 90% effective. Mickey Beall says that before the geofencing was on, the parking compliance was well under 50%. 
+
+Scooter contact: hello@veoride.com (optionally jhoover@veoride.com)
+
+# 2023 02 08 Public Safety Sub-Committee
+
+Chief Baker: If you collect tag/description/behavior of unsafe driving the police will run the tag and send a warning letter to the address listed.
+
+# 2023 02 21 Town Council
+
+Congressman Glenn Ivey's representative (Ethan Sweep) appeared - gave email if you have any concerns: ethan.sweep@mail.house.gov
+
+Lots of back and forth about whether to get a ~\$5000/year issue tracking software (SeeClickFix) for the town - was tabled for two weeks to look into more options. Most of the concern over the cost. From my perspective, this is worth spending as the town has no issue tracking system beyond what the Mayor and DPW can hold in their head. The Police do have their own issue tracking system. 
+
+The Council formally requested adding stop signs to Wells Parkway at Van Buren. The Chief was concerned as car speeds were fairly high because Wells has few cross streets *and* there is regular foot traffic to and from the schools in this area.  
+
+## Town Clerk
+
+The town needs another supervisor of election: Contact TC Hegeman (thegeman@upmd.org, 301-927-4262, ext. 101 ) if you are interested.
+
+## Police
+
+Chief Baker reports **MORE CHECKS STOLEN - stop using the blue boxes.**
+
+On the 6900 block of Pineway a vehicle was stolen. The keys were **in the car.** Not mine, thank goodness. Please lock your doors.
+
+The Chief is looking to hire another crossing guard as one of them is taking leave for health reasons.
+
+The UP Police are now using body cameras 
+
+## Director of Public Works (Beall):
+
+2/14: Tot lot demo began
+
+Saved a huge elm that was in danger of damage from WSSC gas pipe
+
+Temporary speed hump moved to Van Buren (West of Wells)
+
+Mr. Dubayah and myself asked Mr. Beall (whose town vehicle is the first UP plug in electric vehicle) whether he could start tracking electric miles (as he does track mileage for the Public Works fleet). He reported going 720 miles on one tank a gas in the vehicle and that 80% of those miles were on electric. 
+
+## Pineway Speed Humps
+
+The temporary humps are to be replaced with permanent ones. Two residents on South Pineway asked whether the permanent speed hump could be moved closer to the entrance at South Pineway / Baltimore to encourage drivers to enter the road more gently. Both the Mayor and Mr. Beall are supportive of this change and I believe a reasonable alteration has been agreed upon.
