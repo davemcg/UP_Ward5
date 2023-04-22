@@ -1,0 +1,80 @@
+---
+title: "2023-04-22-Town-Council"
+description: |
+  Budget Slog
+author:
+  - name: David McGaughey
+    url: {}
+date: 04-22-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+OK - let's get into it.
+
+# Elections
+
+I have submitted the documentation to run again for Councilmember of Ward 5. I think I am running unopposed.
+
+# Town Administrator
+
+Once again, getting testier than I would like. 
+
+To recap, after TA Deutsch *said* he was retiring, the Mayor did not act with any haste. After he *actually* retired the Mayor, after a few weeks, proposed a candidate that the full council was uncomfortable with. We asked for a hiring process and the Mayor allowed us to put in a job ad. We got several more candidates, one of whom many on the council liked. The Mayor once again proposed the original candidate and for good measure, threw in a second one. I personally thought the second candidate he proposed was an alarmingly bad fit as he had left his previous position on very bad terms. Council very strongly told the Mayor neither were acceptable. 
+
+To not repeat this "process" three councilmembers have been running a more sensible job search where they advertised, made short list acceptable candidates, and plan on having the Mayor select one of them. I was extremely displeased to hear the Mayor complain for minutes on end how he has been frozen out of the hiring process and how he has so little confidence in the hiring process he is eliminating the funding for the position entirely. The Mayor appears to want to directly hire someone who, when asked to dig a hole, will shout "HOW DEEP SIR??!!" Council wants a town administrator who works for us all and who will ask "why are we digging a hole again?" Whether this is resolved or not, I do not know. 
+
+## Not having a town administrator makes several tasks difficult:
+
+1. Spending the 1.875 million of ARP money by 12/31/2024 (if we don't, we give it back). 
+2. Installing the missing pedestrian bridges
+3. Starting the master park plan to comprehensively determine how to maintain and upgrade our shared park
+4. Overseeing the various stormwater acceptance projects
+5. Town hall improvements. The subcommittee I serve on desires a (nice) prefab (?) building to serve as a town meeting space and offices. Getting this to happen in Mickey Beall's spare time is, as can be expected, not moving very fast. 
+
+# Budget
+
+Changes in revenue:
+
+1. We are now claiming the full camera revenue (projected to be nearly \$2 million!!!!!!!!) as revenue. MD state law caps the amount of revenue from cameras at 10% of the full town budget - so there are monetary reasons to inflate the size of the budget. I'm concerned the town will become reliant on the camera revenue. The goal of the cameras was not to get free \$ but to slow down traffic. I want the town to work on reducing the revenue we generate from the cameras by slowing down the traffic. All the moral posturing aside, it is hard to turn down "free" money with budget tricks. Dan Baden (our Treasurer) did confirm with several entities that it was legal/normal to do this accounting trick. 
+  - I have brought up with Chief Baker and other related parties whether we can "improve" the signage to make clear that the roads are being camera monitored for speed. 
+2. With 5% interest (up from ~0% previously) the town is now generating another ~$100,000 / year in interest on money in the bank.
+3. The full remaining sum of the American Rescue Plan "free federal money" (~1.875M) has been declared in the budget to by spent this year. I'm a bit concerned that we won't be able to put all this money into a signed contract without a town administrator. 
+
+Some line by line comments:
+
+  - You can find the proposed budget in the last two council [agendas](https://www.upmd.org/AgendaCenter/ViewFile/Agenda/_04172023-744)
+  - I don’t know what the "G34: Park Upgrades are." $50,000 is noticeable money. The budget says something about a Christmas tree (live?), pole decorations, and Veteran's Memorial upgrades. 
+  - "G36: $220,000 for an electric shuttle to restart the program." I chaired the Transit Task Force II. In the past the town has “bootstrapped” the shuttle program with partially or fully subsidized shuttles. A grant exists which could cover 85% of the cost of an electric shuttle. I probably could be convinced to support allocating a small portion of money to cover a subsidized shuttle. But not a full priced one. Also....the shuttle isn't the only cost. It also costs ~\$75,000* / year in salary/benefits/etc to drive the shuttle. Nothing was allocated for that. I don't think the council is going to approve restarting the shuttle program with a single line in the budget. 
+  - Path lights in the park is, in my mind, dead. The Mayor perhaps thought this was such a slam dunk idea that no one needed to be consulted about it. Several residents have reached out to complain about the deleterious effects of light pollution, council noted that there were zero crime reports in the park after dark, and Mayor Carey pointed out that in 2012 (yes 2012) he was told path lights would cost around \$300,000. 
+  - "G16: Legal Fees ($40.000) - a slight decrease in payments to the Town's attorney." This confused our attorney as actual expenses were about \$43,000 last year and she anticipated the same (or more) costs this year. That will have to be fixed. 
+  - P5 parking enforcement was zeroed out as the Chief will use the police officers for this task
+  - S2, \$30,000 for signs. The Mayor added this one as he wants the signage throughout town to be repaired and brought up to standard. Previously the costs for this were pulled from other bins randomly. That's a lot...but I think is mostly a one time cost.
+
+The Mayor has proposed a real tax cut (as in your taxes to UP would be lower than the previous year, in real dollars). This is mostly from eliminating the town administrator position. I would except that taxes will be kept on the "constant yield" and be about the same as last year after we are done with the budget. While the Mayor proposes a budget, the council is in responsible for passing it. We will edit any areas of concern.
+
+As for donations to organizations in our area, there are very few this year. Aside from a new donation to an animal shelter. I can't make any promises on amounts or distributions, but I think this is a bit low. 
+
+Also, I'm trying to get the police to switch a vehicle purchase to an electric as it will only add a bit of cost, while providing (in theory) long term cost savings. 
+
+# Fences
+
+If you want a fence variance, make sure you give a reason based on unusual topography, safety, or some other compelling factor. Having a bouncy dog is not sufficient as dogs come and go but fences are forever. 
+
+As a reminder, six feet high is allowed BEHIND your house. 4 feet in the side and front yard. Anything higher requires a variance.
+
+# Other bits and pieces
+
+5/19 is movie night in the park with UPES (“Lightyear”). 6:30-9
+
+Extra police enforcement on morning “do not enters” from Baltimore avenue (Wells -> Sheridan). caught 8 illegal entries
+
+The morning school crossing guard reported several illegal entries each week onto Underwood (which is one way this time of day). Mr. Beall installed a 2nd do not enter sign at the intersection of Underwood and Queens Chapel, which seem to be helping.
+
+New Tot Lot is open. Apparently two pieces (?) are missing and will be installed when they arrive by town staff. 
+
+Mr. Beall reports getting about 720 miles / tank of gas with his new plug-in hybrid SUV. 
+
+Attorney Ferguson reports that we should hear news soon on getting control of the town streetlights from Pepco. This would allow us, in theory, to install LED lights to reduce light pollution and energy costs. 
+
