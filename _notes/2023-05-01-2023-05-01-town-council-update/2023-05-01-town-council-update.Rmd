@@ -1,0 +1,80 @@
+---
+title: "2023-05-01 Town Council Update"
+description: |
+  Budget continues
+author:
+  - name: David McGaughey
+    url: {}
+date: 2023-05-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Town Hall 
+
+2023-04-24 Meeting of the Public Works Subcommittee 
+
+Carey, concept plan with Arnold. Too expensive and retooled
+
+Went out to bid ( under Carey/Deutsch)
+
+- concepts to put additions on town hall
+- ADA and public works staff room (they are in the basement of a SFH)
+
+Frederick Douglas firm had a meeting with Mickey/Suellen
+- they say the original building must be rebuilt
+
+existing building:
+- heavy up for electrical
+- generator cannot power entire building
+- phone system runs under the bathroom
+- AC is window only (8)
+- radiator heat (too downstairs / too cold upstairs)
+- all mechanical systems exposed in the basement
+
+suellen has experience with duvall field prefab
+- nightmare
+- one company build the structure
+- another builds and installs it
+- so two major companies to deal with
+- finger pointing at each other anytime something goes wrong
+
+frederick ward says you can’t put an addition on without fixing the mechanicals of the original
+
+“every municipal building paid with support of the state”
+
+“no request made this year” (thanks Joel)
+
+Carey (he is on call): $250,000 stockpiled 
+
+Suellen suggesting that we move forward with design and keep try to stockpile money (and request $ from state every year)
+
+one million to “fix” existing building
+
+two million to build the addition
+	- permitting, grading, 3rd party review
+	- 
+
+the 360k proposal covers design and permitting? So it is sort of agnostic to the exact construction. 
+
+prefab vs gut is 10-20 difference in cost
+
+engineers referred to our site as “high difficulty and high cost” because of the constraints to our site (overhead utilies, slope, close to state road)
+
+dan has ton of experience getting funding for buildlings around here
+
+
+# Budget
+
+Comment (Len): Consider increasing donations back up to 10%. Reminder that the charging station proposal may be challenging to implement. 
+  Q: Why $188,000 interest?
+  A: (Baden): We have $6,000,000 in bank and are now generating about 5% interest (up from <0.5% in the past)
+
+Hess: Shuttle may not be worth the cost. Would rather not reduce tax rate. Town Hall (Hess is neighbor), please undertake those efforts. Would love some noise abatement, if possible.
+

@@ -1,0 +1,100 @@
+---
+title: "2023-07-16 Summer Mugginess"
+description: |
+  Where we are on some stuff
+author:
+  - name: David McGaughey
+    url: {}
+date: 2023-07-16
+output:
+  distill::distill_article:
+    self_contained: false
+preview: flowers.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Weather and Gardening
+
+![](flowers.png)
+
+Ugh July mugginess. Though May/June was surprising cool and we haven't had a flood-your-basement rainfall so far. So, all in all, a decent summer so far. Our purple coneflowers are doing well this year (last year they were kid height - now they are adult height). We are still trying to find some flowers that can handle the wet and the shade of our backyard though. Jaime procured some shade tolerant plants: poke milkweed, white wood aster, spotted geranium, and blue-stemmed goldenrod. 
+
+I also started inverting our fence-line garden beds (as in: I dug DOWN). The longer term plan is to truncate our downspout pipe to end in a rain garden. That way some of the rain water can have more time to soak in a garden bed instead of being all shuffled directly into a storm drain (and thus contributing to local flooding). I'd like to do the same for our front yard but am less certain that is a good idea since the slope of our front yard heads directly to our house. I'd probably have to do something fairly extreme like a big pit. Maybe for a future year. 
+
+I'm hoping to work with the sustainability committee to design some turnkey design solutions for downspout-fed rain gardens. If everyone in town (where possible) could terminate their downspout into a rain garden, that could make a noticeable impact in our town's resilience to flash flooding. 
+
+# Budget
+
+The mayor submits a budget. Then the council edits it. Here are (some) of the edits we made.
+
+1. Re-funded the town administrator position and adjusted it to be a 40 hour / week position (it had been a part-time position; more below)
+2. Re-funded town assistant position (currently no one is employed in this position)
+3. Rejiggered the ARPA (~1.8 million left) funds to:
+  - 1.3 million for stormwater upgrades
+  - 450k for town hall update
+  - 15k donation for DC Food Bank
+  - 15k donation to Route One Communities Care
+  - 50k for the park system
+  - (eliminate the park lights)
+  
+4. 5k to the Anacostia Watershed Society
+5. 5k to refund residents for costs associated with capture/neuter/spay. Any leftover funds to go to the SPCA.
+6. 28k for composting bins (more to follow below)
+7. 2.2k for emergency alert system (more below)
+
+# Composting Bins and Bags
+
+There are two issues: buckets and bags. Let us go through them one at time.
+The compost buckets (the white ones) cost about $15 each. I believe the *original* idea was that people would keep these buckets inside. But that is not the reality. The Public Works Director (Mickey Beall) is replacing *huge* numbers of these buckets. They are not UV resistant and apparently are ruined in about five years of outside living. Which closely matches our personal bucket trajectory (recently exploded into pieces after I closed the garage door on it).
+
+As a huge number of people seem to be using these as outside cans, Mickey proposed (and council funded) UV resistant half-sized outdoor wheelie bins. These cans (like the green and blue wheelie bins we already have) last for *decades.* 
+
+Now onto the bags. The green compostable bags that the town provides 
+for the compost program cost about \$10,000/year. While \$10,000/year sounds like a lot of money, it is a fairly small line item in the context of the full budget. The real issue is that the *delivery* of them is very hard on the public works department. It takes 16 hours of labor to deliver the bags across the town, which happens every one-two months. Mickey also stated that this is the part of the public works department with the lowest resident satisfaction and that the compost bags are now readily available for sale at local stores and online (this was not the case when the town began the program).
+
+To sum it up, Mickey is recommending switching to a wheelie bin for the compost storage and eliminating the compost bag delivery service. This has little practical change for existing users - except that you have to buy your own compost bags if you choose to continue using them (tip: Trader Joes uses them in place of plastic ones for produce and meat). Bags are not required--you can dump compost directly into bins.
+
+Mickey *does* want high usage of the compost program - any food waste going to compost is money saved on garbage (we pay by the ton for garbage dumping and pay nothing, I think, for compost dumping). So please do not interpret these changes as hostility to the compost program, but rather tweaks to improve efficiency of the program.
+
+I am open to considering some tweaks if this proposal is alarming - perhaps the town can buy a smaller number of compost bags and keep them at town hall should anyone wish to pick up a box\*. Or we can can keep a small number of buckets on hand and offer a bucket / bag kit to *new* participants if they intend to keep the buckets inside?
+
+\* that said...the town doesn't purchase garbage bags for us...so should it purchase compost bags?
+
+# Emergency Alert System
+
+The council supported my proposal to fund the "Nixle" emergency alert system. This will enable the Police department to directly send out text/email alerts. The Chief is still working with the vendor to iron out some implementation details. I also urged the council/Mayor to send out a physical flyer asking everyone to sign up for this service. There will be several levels of alerts so you have some control over what kind of alerts you would like to receive (town events / local alerts / urgent notices).
+
+# Town Administrator
+
+We once again have a town administrator, Angela Lawrence. She previously was the TA of Dayton, Virginia. This is an interim hire, so both the council and the new TA expect the position to be readvertised in about a year. You can contact her at <alawrence@upmd.org>. 
+
+# DOC
+
+Martha Wells was the chair of the Development Overview Committee. She has left the council, due to term limits. The Mayor has put me forward as the chair, with Bill Sweet at the co-chair. The pace of new developments is beginning to slow as much of the available spaces for apartments/townhouses have been recently filled or re-developed. The most exciting proposal comes from Riverdale Park, which is trying to get control of the unused Army Reserve facility (across Route 1/next to Whole Foods) to add more stormwater control measures. This will literally take an act of Congress, so this is very much in the early stages. 
+
+# Art in the Park
+
+This now annual event is being held on September 30th, 1-4pm. Check your email for a flyer with more information! You can also email <UPartsinthepark@gmail.com> for more information.
+
+# Town Hall
+
+Various Mayors and councils have been trying for (literally) decades to update the town hall. Why? Because the town hall is a single-family home that hosts the police department, public works department, town administrator, treasurer, town clerk, and the Mayor. The attic is being used to store archival documents. The basement has lockers for the public works staff. It is moldy. There is no central air conditioning. There is no accessible space for public meetings. The communications infrastructure is located under a bathroom. Which leaks.
+
+The Public Facilities Committee has been looking into hiring a design/build firm to build a new town hall. Some of you may remember an "Arnold and Arnold" report and perhaps an "Ahmann" report. I wrote a summary of them [here](https://davemcg.com/ward5/issues/2021-05-10-townhall/). 
+
+Last year the town put out an "RFP" (request for proposal) asking for bids to design and build a relatively small town hall. The RFP included the \$4.5 million dollar Arnold and Arnold report and explicitly stated that this report was dead on arrival due to the presented cost. We received a handful of bids. We have been in discussion with the lowest bidder off and on over the past year. The town has a few hundred thousand dollars available to start this process. This includes \$200,000 from a state grant that the previous Mayor got. We also can use some of the ARPA money.
+
+The lowest bidder is [Frederick Ward](https://www.frederickward.com), which has built several projects for local Maryland governments. They have presented to the town council as well as met with Mickey  A few things that we have learned:
+
+1. The existing town hall is in bad shape. The cheap solution would be to gut the existing building (no idea where the town staff would go during construction) and rebuild from the inside. This would not solve any of our concerns about the meeting space and facilities for the public works staff and police. But at least it would bring our communications and mechanical (e.g. electric) building infrastructure up to current standard. This would cost around one million. 
+2. The site is challenging to work with. Not impossible, but has several undesirable features including: narrow width, steep slopes, metro line ventilation shaft, and being fronted by a busy state road with power lines.
+3. Part of the reason the Arnold and Arnold report resulted in such an expensive proposal was because they followed general guidelines on space / employee. In other words, we are REALLY jamming our employees in tight.
+4. In discussions with our town treasurer and attorney on *how* other towns get stuff like this built we learned an interesting factoid: just about every town gets state assistance. That can come in many forms (favorable loans, matching funds, etc). But the attorney/treasurer *think* we have a good chance at getting assistance because the town has made few requests to the state for funds. That said, we will not be able to get assistance until we have a shovel-ready project. 
+
+All this leads to here: the council (and I) are considering approving about \$380,000 to move forward with the design and permitting for a new town hall. This is the paperwork, design, and permits to *get* a shovel-ready project. We have a sense of urgency because the \$200,000 state grant we got will run out soon (and we have been told the state would likely be more reticent to award us the money again if we failed to spend it last time) and the current town hall is steadily becoming more inadequate for our needs.
+
+
+
