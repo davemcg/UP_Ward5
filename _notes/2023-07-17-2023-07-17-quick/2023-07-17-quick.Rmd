@@ -1,0 +1,60 @@
+---
+title: "2023-07-17 Summer Mugginess"
+description: |
+  Where we are on some stuff
+author:
+  - name: David McGaughey
+    url: {}
+date: 2023-07-16
+output:
+  distill::distill_article:
+    self_contained: false
+
+---
+
+# Bridges
+
+The council has voted to fund the park bridge replacements at Beechwood & Van Buren for \$270,000. We've approved this twice and I think at this point the construction will begin once the permits are in place and the construction company (NZI) has time. 
+
+# Playground
+
+Town staff was authorized to seek a \$100,000 grant to install a new table, sun canopies, and a new piece of equipment at the "big kid" playground.
+
+# Stormwater
+
+The [RKK report](University Park Potential SWM Opportunities Report FINAL.pdf) (<--- link to report) is heavy on water *moving*. As in moving water off of streets more efficiently. This is to address "nuisance" issues like water pooling on roads and sidewalks. Of course in some locations (and situations) the nuisance can periodically be more serious and lead to water issues on properties. Rain gardens (aka (micro)bioretention) have often been proferred up in various situations. These are considered more for water "filtration" or "treatment." They, of course, will slow water moving into the streams, but I suppose the distinction is made because in times of heavy rain, the rain gardens will very quickly fill and individually have little effect on flash flooding. 
+
+The Sustainability Committee vociferously stated that the RKK report is too heavy on moving water and directly asked for a new survey to incorporate stormwater *holding*; potentially in conjunction with the not-moving-right-now-updated-master-town-park-plan. 
+
+The Mayor put forward a motion to request an RFP to implement some (what exactly to be determined later) of the RKK report. Furthermore he is asking explicitly for more (micro)bioretention facilities. Council went back and forth a bit on this and it was amended a bit to direct the town (mostly Mickey I assume) to work with outside engineers to develop a scope of work that can directly address water *holding* and *moving*. The "RFP" itself will not go out until the Public Facilities and Sustainability Committees can comment on the scope of work requested. All of this to say that council did not authorize Mickey to advertise a town-wide project spending huge sums of money on stormwater systems. I am hoping we will get there! But with a lot of **community** and council input. 
+
+# Neighborhood Watch
+
+Cpl Miltenberger is trying to set this up. The Chief is hoping for some more participation from residents. 
+
+# Another "nuisance" crime incident
+
+On July 24th, sometime in the early morning, four cars in Ward 2 were broken into. Mary Gathercole (Ward 2 councilmember and Public Safety Chair) and I had a discussion and we think the Public Safety committee should request that the Chief work with the new Town Administrator to re-apply for a grant to (partially?) pay for the town-edges camera monitoring system. We are getting a very steady trickle of catalytic converter thefts and car break ins. We have 1-2 overnight officers, but several 'smash and grabs' or a catalytic converter theft can take place in minutes. The hope is that with the camera system the police can get real-time alerts on when entries are happening in town. Hence, if an officer has seen zero cars or people enter town for two hours and then gets an alert about a vehicle or foot entry, he or she can head over. Also the camera system would be very helpful for "post incident" investigations. 
+
+The Chief is very clear that criminals quickly learn where cameras are. He strongly feels that putting a comprehensive camera system around the town would be a strong deterrent. 
+
+# Stream Cloudiness
+
+Our town stream (Well's Run) has been a bit more "turbid" recently. With some help from David Brosch, we collected photos demonstrating the issues in town. I contacted DPIE officials on Monday July 24th and our county councilmember Eric Olson (who I believe also sent a separate message). DPIE sent out the lead inspector to the '9 ponds' site (near the Hyattsville Library and Community Center) that day. It is a complicated site because the Clean Water Program (PG County) is overseeing the construction of the new stormwater holding pond here. Right next door is a "Dewey" apartment building going up. From what I understand the DPIE inspectors found that the Dewey site had a few feet of unsecured sheets which were essentially allowing rainwater to stream across the bare soil on the worksite directly into storm drain which runs to UP under Adelhi/Toledo. They also went upstream to the "Stanley Martin Gateway West" townhouses and found some issues with their holding pond.
+
+I learned that the "9 ponds stormwater" site is under a different set of inspection (as 9 ponds is a county run project) than the Dewey apartment site and there wasn't much cross communication on how to coordinate (or not) water runoff holding. On Wednesday July 26th all parties had an on-site meeting which I attended along with Angela Lawrence (new UP Town Administrator). Hopefully there will be better communication between the multiple construction firms and overseeing agencies.
+
+On August 9th I sent a follow up email to several of the DPIE inspectors to see what the status of this issue is. 
+
+# Parking Changes
+
+Wells Parkway "South-West", which dead-ends at the school field, is surprisingly clogged with non-resident parkers. So much so that the residents are having trouble getting parking in the vague vicinity of their home. The Chief has previously proposed a more ambitious multi-zone parking permit system. For my part, I pointed out that this was a fairly dramatic change and that most residents could be annoyed by having to juggle visitor permits and such. That said, I (and I believe the Public Safety Subcommittee) think that trying out a "permit system" for just **one** block would be a good way to test out our implementation. There are a lot of little details which need to be done right. Including, but not limited to, signage (and the exact wording on the signs), permits (color? size?), tracking system of the permits, and the language of the town code (do we just limit parking? what about idling? what about parked but sitting in the car?). 
+
+# Crime in July
+
+July 1-24: 3 vehicles stolen. 2 Kia and 1 Hyundai. Free steering wheel locks for any UP residents who own a Kia or Hyundai available at town hall. 
+
+# Dispatchers
+
+UP can have "laggy" police response because we do not have our own dispatch system. We rely on the county. That said, if you have made a **911** call and do not think the police responded fast enough, please contact the Chief with the call information (date and time of call). The Chief is working continually the make the system we have work more smoothly. He did agree to (re?)contact local police chiefs to see if there is any chance we can "piggyback" on their dispatch.
+

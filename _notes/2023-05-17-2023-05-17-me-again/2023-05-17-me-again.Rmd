@@ -42,7 +42,7 @@ The mayor submits a budget. Then the council edits it. Here are (some) of the ed
   
 4. 5k to the Anacostia Watershed Society
 5. 5k to refund residents for costs associated with capture/neuter/spay. Any leftover funds to go to the SPCA.
-6. 28k for composting bins (more to follow below)
+6. 28k for composting bins ([see below](#-Composting-Bins-and-Bags))
 7. 2.2k for emergency alert system (more below)
 
 # Composting Bins and Bags
@@ -65,7 +65,7 @@ I am open to considering some tweaks if this proposal is alarming - perhaps the 
 
 # Emergency Alert System
 
-The council supported my proposal to fund the "Nixle" emergency alert system. This will enable the Police department to directly send out text/email alerts. The Chief is still working with the vendor to iron out some implementation details. I also urged the council/Mayor to send out a physical flyer asking everyone to sign up for this service. There will be several levels of alerts so you have some control over what kind of alerts you would like to receive (town events / local alerts / urgent notices).
+The council supported my proposal to fund the "Nixle" emergency alert system. This will enable the Police department to directly send out text/email alerts. Including emergency alerts for now-problems (like our recent mini burglary spree and assault of a resident on Baltimore Ave). The Chief is still working with the vendor to iron out some implementation details. I also urged the council/Mayor to send out a physical flyer asking everyone to sign up for this service. There will be several levels of alerts so you have some control over what kind of alerts you would like to receive (town events / local alerts / urgent notices).
 
 # Town Administrator
 
